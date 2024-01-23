@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Martin.
+I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jersey, USA. When I'm not slaying tech dragons, you might catch me dreaming up startup shenanigans, perfecting the delicate dance of coffee brewing, and occasionally dabbling in the art of hacking (the legal kind, promise!). 
 
 #### 👷 Check out what I'm currently working on
 
