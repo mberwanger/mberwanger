@@ -27,12 +27,6 @@ I'm Martin.
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### 📚 Books I'm reading
-{{range literalClubCurrentlyReading 5}}
-- {{.Title}} - {{.Subtitle}} - {{.Description}} - https://literal.club/mberwanger/book/{{.Slug}}
-  {{- range .Authors }}{{ .Name }}{{ end }}
-{{- end}}
-
 #### 💬 Feedback
 
 If you use one of my projects, I'd love to hear from you! Don't be shy and let me know what you liked and what needs being improved. Got an issue? Open a ticket, I don't bite and will try my best to help!
