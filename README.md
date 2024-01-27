@@ -4,8 +4,8 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 👷 Check out what I'm currently working on
 
-- [DataliftHQ/datalift-helm](https://github.com/DataliftHQ/datalift-helm) - Helm charts to install Datalift and other associated components. (6 days ago)
-- [DataliftHQ/datalift](https://github.com/DataliftHQ/datalift) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (6 days ago)
+- [DataliftHQ/datalift-helm](https://github.com/DataliftHQ/datalift-helm) - Helm charts to install Datalift and other associated components. (1 week ago)
+- [DataliftHQ/datalift](https://github.com/DataliftHQ/datalift) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (1 week ago)
 - [DataliftHQ/demo-simple-app](https://github.com/DataliftHQ/demo-simple-app) - Deploy the demo app with Datalift (1 week ago)
 - [DataliftHQ/datalift-action](https://github.com/DataliftHQ/datalift-action) - GitHub Action for Datalift (4 months ago)
 - [DataliftHQ/homebrew-tap](https://github.com/DataliftHQ/homebrew-tap) - Homebrew Tap of Datalift products and tools (7 months ago)
@@ -20,22 +20,22 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 🔭 Latest releases I've contributed to
 
-- [DataliftHQ/datalift-helm](https://github.com/DataliftHQ/datalift-helm) ([datalift-agent-0.1.3](https://github.com/DataliftHQ/datalift-helm/releases/tag/datalift-agent-0.1.3), 6 days ago) - Helm charts to install Datalift and other associated components.
+- [DataliftHQ/datalift-helm](https://github.com/DataliftHQ/datalift-helm) ([datalift-agent-0.1.3](https://github.com/DataliftHQ/datalift-helm/releases/tag/datalift-agent-0.1.3), 1 week ago) - Helm charts to install Datalift and other associated components.
 - [DataliftHQ/datalift-action](https://github.com/DataliftHQ/datalift-action) ([v1.0.0](https://github.com/DataliftHQ/datalift-action/releases/tag/v1.0.0), 4 months ago) - GitHub Action for Datalift
 - [DataliftHQ/datalift-cli](https://github.com/DataliftHQ/datalift-cli) ([v0.1.0](https://github.com/DataliftHQ/datalift-cli/releases/tag/v0.1.0), 7 months ago) - Datalift Platform Orchestrator: Automate your DevOps workflow, accelerate app delivery, and empower developers.
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: add project framework](https://github.com/DataliftHQ/datalift/pull/3) on [DataliftHQ/datalift](https://github.com/DataliftHQ/datalift) (1 day ago)
-- [feat: add issue templates](https://github.com/DataliftHQ/datalift/pull/2) on [DataliftHQ/datalift](https://github.com/DataliftHQ/datalift) (5 days ago)
-- [feat: initial import](https://github.com/DataliftHQ/datalift/pull/1) on [DataliftHQ/datalift](https://github.com/DataliftHQ/datalift) (6 days ago)
-- [fix: tab to space](https://github.com/DataliftHQ/datalift-helm/pull/15) on [DataliftHQ/datalift-helm](https://github.com/DataliftHQ/datalift-helm) (6 days ago)
+- [feat: add project framework](https://github.com/DataliftHQ/datalift/pull/3) on [DataliftHQ/datalift](https://github.com/DataliftHQ/datalift) (2 days ago)
+- [feat: add issue templates](https://github.com/DataliftHQ/datalift/pull/2) on [DataliftHQ/datalift](https://github.com/DataliftHQ/datalift) (6 days ago)
+- [feat: initial import](https://github.com/DataliftHQ/datalift/pull/1) on [DataliftHQ/datalift](https://github.com/DataliftHQ/datalift) (1 week ago)
+- [fix: tab to space](https://github.com/DataliftHQ/datalift-helm/pull/15) on [DataliftHQ/datalift-helm](https://github.com/DataliftHQ/datalift-helm) (1 week ago)
 - [feat: initial import](https://github.com/DataliftHQ/demo-simple-app/pull/1) on [DataliftHQ/demo-simple-app](https://github.com/DataliftHQ/demo-simple-app) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [chrede88/qubt](https://github.com/chrede88/qubt) - Qubt - Personal blog theme for Hugo (2 days ago)
-- [DataliftHQ/datalift](https://github.com/DataliftHQ/datalift) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (6 days ago)
+- [chrede88/qubt](https://github.com/chrede88/qubt) - Qubt - Personal blog theme for Hugo (3 days ago)
+- [DataliftHQ/datalift](https://github.com/DataliftHQ/datalift) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (1 week ago)
 - [mitchellh/copystructure](https://github.com/mitchellh/copystructure) - Go (golang) library for deep copying values in Go. (1 month ago)
 - [otakustay/react-diff-view](https://github.com/otakustay/react-diff-view) - A git diff component (1 month ago)
 - [wI2L/jsondiff](https://github.com/wI2L/jsondiff) - Compute the diff between two JSON documents as a series of RFC6902 (JSON Patch) operations (1 month ago)
