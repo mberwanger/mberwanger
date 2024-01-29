@@ -4,7 +4,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 👷 Check out what I'm currently working on
 
-- [DataliftHQ/datalift](https://github.com/DataliftHQ/datalift) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (2 days ago)
+- [DataliftHQ/datalift](https://github.com/DataliftHQ/datalift) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (1 day ago)
 - [DataliftHQ/datalift-helm](https://github.com/DataliftHQ/datalift-helm) - Helm charts to install Datalift and other associated components. (1 week ago)
 - [DataliftHQ/demo-simple-app](https://github.com/DataliftHQ/demo-simple-app) - Deploy the demo app with Datalift (1 week ago)
 - [DataliftHQ/datalift-action](https://github.com/DataliftHQ/datalift-action) - GitHub Action for Datalift (4 months ago)
@@ -27,15 +27,15 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: release workflow](https://github.com/DataliftHQ/datalift/pull/15) on [DataliftHQ/datalift](https://github.com/DataliftHQ/datalift) (1 day ago)
-- [chore: bump go packages](https://github.com/DataliftHQ/datalift/pull/14) on [DataliftHQ/datalift](https://github.com/DataliftHQ/datalift) (1 day ago)
-- [feat: add project framework](https://github.com/DataliftHQ/datalift/pull/3) on [DataliftHQ/datalift](https://github.com/DataliftHQ/datalift) (3 days ago)
-- [feat: add issue templates](https://github.com/DataliftHQ/datalift/pull/2) on [DataliftHQ/datalift](https://github.com/DataliftHQ/datalift) (1 week ago)
-- [feat: initial import](https://github.com/DataliftHQ/datalift/pull/1) on [DataliftHQ/datalift](https://github.com/DataliftHQ/datalift) (1 week ago)
+- [fix: goreleaser slack webhook](https://github.com/DataliftHQ/datalift/pull/17) on [DataliftHQ/datalift](https://github.com/DataliftHQ/datalift) (1 day ago)
+- [fix: release workflow](https://github.com/DataliftHQ/datalift/pull/16) on [DataliftHQ/datalift](https://github.com/DataliftHQ/datalift) (1 day ago)
+- [fix: release workflow](https://github.com/DataliftHQ/datalift/pull/15) on [DataliftHQ/datalift](https://github.com/DataliftHQ/datalift) (2 days ago)
+- [chore: bump go packages](https://github.com/DataliftHQ/datalift/pull/14) on [DataliftHQ/datalift](https://github.com/DataliftHQ/datalift) (2 days ago)
+- [feat: add project framework](https://github.com/DataliftHQ/datalift/pull/3) on [DataliftHQ/datalift](https://github.com/DataliftHQ/datalift) (4 days ago)
 
 #### ⭐ Recent Stars
 
-- [chrede88/qubt](https://github.com/chrede88/qubt) - Qubt - Personal blog theme for Hugo (4 days ago)
+- [chrede88/qubt](https://github.com/chrede88/qubt) - Qubt - Personal blog theme for Hugo (5 days ago)
 - [DataliftHQ/datalift](https://github.com/DataliftHQ/datalift) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (1 week ago)
 - [mitchellh/copystructure](https://github.com/mitchellh/copystructure) - Go (golang) library for deep copying values in Go. (1 month ago)
 - [otakustay/react-diff-view](https://github.com/otakustay/react-diff-view) - A git diff component (1 month ago)
