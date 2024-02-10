@@ -36,7 +36,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [DataliftHQ/admiral-action](https://github.com/DataliftHQ/admiral-action) - GitHub Action for Admiral (1 week ago)
 - [DataliftHQ/admiral-helm](https://github.com/DataliftHQ/admiral-helm) - Helm charts to install Admiral and other associated components. (1 week ago)
 - [chrede88/qubt](https://github.com/chrede88/qubt) - Qubt - Personal blog theme for Hugo (2 weeks ago)
-- [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (2 weeks ago)
+- [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (3 weeks ago)
 - [mitchellh/copystructure](https://github.com/mitchellh/copystructure) - Go (golang) library for deep copying values in Go. (1 month ago)
 - [otakustay/react-diff-view](https://github.com/otakustay/react-diff-view) - A git diff component (1 month ago)
 - [wI2L/jsondiff](https://github.com/wI2L/jsondiff) - Compute the diff between two JSON documents as a series of RFC6902 (JSON Patch) operations (1 month ago)
