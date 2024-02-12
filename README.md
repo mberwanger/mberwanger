@@ -8,7 +8,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (1 week ago)
 - [DataliftHQ/homebrew-tap](https://github.com/DataliftHQ/homebrew-tap) - Homebrew Tap of Datalift products and tools (1 week ago)
 - [DataliftHQ/scoop-bucket](https://github.com/DataliftHQ/scoop-bucket) - Scoop bucket for Datalift products and tools (1 week ago)
-- [DataliftHQ/admiral-action](https://github.com/DataliftHQ/admiral-action) - GitHub Action for Admiral (1 week ago)
+- [DataliftHQ/admiral-action](https://github.com/DataliftHQ/admiral-action) - GitHub Action for Admiral (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -26,15 +26,15 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 #### 🔨 Latest Pull Requests I published
 
 - [chore: rebrand](https://github.com/DataliftHQ/admiral/pull/22) on [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) (1 week ago)
-- [chore: rebrand](https://github.com/DataliftHQ/admiral-helm/pull/18) on [DataliftHQ/admiral-helm](https://github.com/DataliftHQ/admiral-helm) (1 week ago)
-- [chore: rebrand](https://github.com/DataliftHQ/admiral-action/pull/5) on [DataliftHQ/admiral-action](https://github.com/DataliftHQ/admiral-action) (1 week ago)
-- [fix: update FUNDING.yml](https://github.com/DataliftHQ/admiral/pull/21) on [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) (1 week ago)
-- [chore: create FUNDING.yml](https://github.com/DataliftHQ/admiral/pull/20) on [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) (1 week ago)
+- [chore: rebrand](https://github.com/DataliftHQ/admiral-helm/pull/18) on [DataliftHQ/admiral-helm](https://github.com/DataliftHQ/admiral-helm) (2 weeks ago)
+- [chore: rebrand](https://github.com/DataliftHQ/admiral-action/pull/5) on [DataliftHQ/admiral-action](https://github.com/DataliftHQ/admiral-action) (2 weeks ago)
+- [fix: update FUNDING.yml](https://github.com/DataliftHQ/admiral/pull/21) on [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) (2 weeks ago)
+- [chore: create FUNDING.yml](https://github.com/DataliftHQ/admiral/pull/20) on [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [DataliftHQ/admiral-action](https://github.com/DataliftHQ/admiral-action) - GitHub Action for Admiral (1 week ago)
-- [DataliftHQ/admiral-helm](https://github.com/DataliftHQ/admiral-helm) - Helm charts to install Admiral and other associated components. (1 week ago)
+- [DataliftHQ/admiral-action](https://github.com/DataliftHQ/admiral-action) - GitHub Action for Admiral (2 weeks ago)
+- [DataliftHQ/admiral-helm](https://github.com/DataliftHQ/admiral-helm) - Helm charts to install Admiral and other associated components. (2 weeks ago)
 - [chrede88/qubt](https://github.com/chrede88/qubt) - Qubt - Personal blog theme for Hugo (2 weeks ago)
 - [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (3 weeks ago)
 - [mitchellh/copystructure](https://github.com/mitchellh/copystructure) - Go (golang) library for deep copying values in Go. (1 month ago)
