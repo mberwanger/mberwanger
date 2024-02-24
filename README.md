@@ -21,7 +21,6 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 #### 🔭 Latest releases I've contributed to
 
 - [DataliftHQ/admiral-helm](https://github.com/DataliftHQ/admiral-helm) ([admiral-server-0.1.4](https://github.com/DataliftHQ/admiral-helm/releases/tag/admiral-server-0.1.4), 3 weeks ago) - Helm charts to install Admiral and other associated components.
-- [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) ([v0.1.0](https://github.com/DataliftHQ/admiral/releases/tag/v0.1.0), 3 weeks ago) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications.
 
 #### 🔨 Latest Pull Requests I published
 
