@@ -4,10 +4,10 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 👷 Check out what I'm currently working on
 
-- [DataliftHQ/admiral-helm](https://github.com/DataliftHQ/admiral-helm) - Helm charts to install Admiral and other associated components. (3 weeks ago)
-- [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (3 weeks ago)
-- [DataliftHQ/homebrew-tap](https://github.com/DataliftHQ/homebrew-tap) - Homebrew Tap of Datalift products and tools (3 weeks ago)
-- [DataliftHQ/scoop-bucket](https://github.com/DataliftHQ/scoop-bucket) - Scoop bucket for Datalift products and tools (3 weeks ago)
+- [DataliftHQ/admiral-helm](https://github.com/DataliftHQ/admiral-helm) - Helm charts to install Admiral and other associated components. (4 weeks ago)
+- [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (4 weeks ago)
+- [DataliftHQ/homebrew-tap](https://github.com/DataliftHQ/homebrew-tap) - Homebrew Tap of Datalift products and tools (4 weeks ago)
+- [DataliftHQ/scoop-bucket](https://github.com/DataliftHQ/scoop-bucket) - Scoop bucket for Datalift products and tools (4 weeks ago)
 - [DataliftHQ/admiral-action](https://github.com/DataliftHQ/admiral-action) - GitHub Action for Admiral (4 weeks ago)
 
 #### 🌱 My latest projects
@@ -20,11 +20,11 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 🔭 Latest releases I've contributed to
 
-- [DataliftHQ/admiral-helm](https://github.com/DataliftHQ/admiral-helm) ([admiral-server-0.1.4](https://github.com/DataliftHQ/admiral-helm/releases/tag/admiral-server-0.1.4), 3 weeks ago) - Helm charts to install Admiral and other associated components.
+- [DataliftHQ/admiral-helm](https://github.com/DataliftHQ/admiral-helm) ([admiral-server-0.1.4](https://github.com/DataliftHQ/admiral-helm/releases/tag/admiral-server-0.1.4), 4 weeks ago) - Helm charts to install Admiral and other associated components.
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: rebrand](https://github.com/DataliftHQ/admiral/pull/22) on [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) (3 weeks ago)
+- [chore: rebrand](https://github.com/DataliftHQ/admiral/pull/22) on [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) (4 weeks ago)
 - [chore: rebrand](https://github.com/DataliftHQ/admiral-helm/pull/18) on [DataliftHQ/admiral-helm](https://github.com/DataliftHQ/admiral-helm) (4 weeks ago)
 - [chore: rebrand](https://github.com/DataliftHQ/admiral-action/pull/5) on [DataliftHQ/admiral-action](https://github.com/DataliftHQ/admiral-action) (4 weeks ago)
 - [fix: update FUNDING.yml](https://github.com/DataliftHQ/admiral/pull/21) on [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) (4 weeks ago)
@@ -39,8 +39,8 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [mitchellh/copystructure](https://github.com/mitchellh/copystructure) - Go (golang) library for deep copying values in Go. (2 months ago)
 - [otakustay/react-diff-view](https://github.com/otakustay/react-diff-view) - A git diff component (2 months ago)
 - [wI2L/jsondiff](https://github.com/wI2L/jsondiff) - Compute the diff between two JSON documents as a series of RFC6902 (JSON Patch) operations (2 months ago)
-- [rt2zz/redux-persist](https://github.com/rt2zz/redux-persist) - persist and rehydrate a redux store (2 months ago)
-- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code (2 months ago)
+- [rt2zz/redux-persist](https://github.com/rt2zz/redux-persist) - persist and rehydrate a redux store (3 months ago)
+- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code (3 months ago)
 - [prasanthmj/qpeg](https://github.com/prasanthmj/qpeg) -  (3 months ago)
 
 #### 💬 Feedback
