@@ -4,7 +4,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 👷 Check out what I'm currently working on
 
-- [mberwanger/terraform-gcp-project](https://github.com/mberwanger/terraform-gcp-project) - Terraform: Google Cloud Project layout (2 days ago)
+- [mberwanger/terraform-gcp-project](https://github.com/mberwanger/terraform-gcp-project) - Terraform: Google Cloud Project layout (3 days ago)
 - [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (1 month ago)
 - [DataliftHQ/homebrew-tap](https://github.com/DataliftHQ/homebrew-tap) - Homebrew Tap of Datalift products and tools (1 month ago)
 - [DataliftHQ/scoop-bucket](https://github.com/DataliftHQ/scoop-bucket) - Scoop bucket for Datalift products and tools (1 month ago)
@@ -32,7 +32,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
-- [mberwanger/sliver-terraform](https://github.com/mberwanger/sliver-terraform) - Streamlined AWS Deployment for Sliver Adversary Emulation Framework (4 days ago)
+- [mberwanger/sliver-terraform](https://github.com/mberwanger/sliver-terraform) - Streamlined AWS Deployment for Sliver Adversary Emulation Framework (5 days ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks. (1 week ago)
 - [DataliftHQ/admiral-action](https://github.com/DataliftHQ/admiral-action) - GitHub Action for Admiral (1 month ago)
 - [DataliftHQ/admiral-helm](https://github.com/DataliftHQ/admiral-helm) - Helm charts to install Admiral and other associated components. (1 month ago)
