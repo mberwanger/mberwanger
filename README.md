@@ -4,7 +4,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 👷 Check out what I'm currently working on
 
-- [mberwanger/terraform-gcp-project](https://github.com/mberwanger/terraform-gcp-project) - Terraform: Google Cloud Project layout (6 days ago)
+- [mberwanger/terraform-gcp-project](https://github.com/mberwanger/terraform-gcp-project) - Terraform: Google Cloud Project layout (1 week ago)
 - [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (1 month ago)
 - [DataliftHQ/homebrew-tap](https://github.com/DataliftHQ/homebrew-tap) - Homebrew Tap of Datalift products and tools (1 month ago)
 - [DataliftHQ/scoop-bucket](https://github.com/DataliftHQ/scoop-bucket) - Scoop bucket for Datalift products and tools (1 month ago)
@@ -38,9 +38,9 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [DataliftHQ/admiral-helm](https://github.com/DataliftHQ/admiral-helm) - Helm charts to install Admiral and other associated components. (1 month ago)
 - [chrede88/qubt](https://github.com/chrede88/qubt) - Qubt - Personal blog theme for Hugo (1 month ago)
 - [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (1 month ago)
-- [mitchellh/copystructure](https://github.com/mitchellh/copystructure) - Go (golang) library for deep copying values in Go. (2 months ago)
-- [otakustay/react-diff-view](https://github.com/otakustay/react-diff-view) - A git diff component (2 months ago)
-- [wI2L/jsondiff](https://github.com/wI2L/jsondiff) - Compute the diff between two JSON documents as a series of RFC6902 (JSON Patch) operations (2 months ago)
+- [mitchellh/copystructure](https://github.com/mitchellh/copystructure) - Go (golang) library for deep copying values in Go. (3 months ago)
+- [otakustay/react-diff-view](https://github.com/otakustay/react-diff-view) - A git diff component (3 months ago)
+- [wI2L/jsondiff](https://github.com/wI2L/jsondiff) - Compute the diff between two JSON documents as a series of RFC6902 (JSON Patch) operations (3 months ago)
 - [rt2zz/redux-persist](https://github.com/rt2zz/redux-persist) - persist and rehydrate a redux store (3 months ago)
 
 #### 💬 Feedback
