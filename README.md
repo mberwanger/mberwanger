@@ -20,7 +20,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 🔭 Latest releases I've contributed to
 
-- [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) ([v0.1.0](https://github.com/DataliftHQ/admiral/releases/tag/v0.1.0), 2 days ago) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications.
+- [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) ([v0.1.0](https://github.com/DataliftHQ/admiral/releases/tag/v0.1.0), 3 days ago) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications.
 - [DataliftHQ/admiral-helm](https://github.com/DataliftHQ/admiral-helm) ([admiral-server-0.1.4](https://github.com/DataliftHQ/admiral-helm/releases/tag/admiral-server-0.1.4), 1 month ago) - Helm charts to install Admiral and other associated components.
 
 #### 🔨 Latest Pull Requests I published
@@ -35,7 +35,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (1 week ago)
 - [mberwanger/sliver-terraform](https://github.com/mberwanger/sliver-terraform) - Streamlined AWS Deployment for Sliver Adversary Emulation Framework (3 weeks ago)
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks. (3 weeks ago)
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks. (4 weeks ago)
 - [DataliftHQ/admiral-action](https://github.com/DataliftHQ/admiral-action) - GitHub Action for Admiral (1 month ago)
 - [DataliftHQ/admiral-helm](https://github.com/DataliftHQ/admiral-helm) - Helm charts to install Admiral and other associated components. (1 month ago)
 - [chrede88/qubt](https://github.com/chrede88/qubt) - Qubt - Personal blog theme for Hugo (2 months ago)
