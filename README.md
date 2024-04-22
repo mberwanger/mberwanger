@@ -20,7 +20,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 🔭 Latest releases I've contributed to
 
-- [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) ([v0.1.0](https://github.com/DataliftHQ/admiral/releases/tag/v0.1.0), 3 weeks ago) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications.
+- [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) ([v0.1.0](https://github.com/DataliftHQ/admiral/releases/tag/v0.1.0), 4 weeks ago) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications.
 - [DataliftHQ/admiral-helm](https://github.com/DataliftHQ/admiral-helm) ([admiral-server-0.1.4](https://github.com/DataliftHQ/admiral-helm/releases/tag/admiral-server-0.1.4), 2 months ago) - Helm charts to install Admiral and other associated components.
 
 #### 🔨 Latest Pull Requests I published
@@ -33,8 +33,8 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
-- [biograph-health/biograph-infra](https://github.com/biograph-health/biograph-infra) - Manage infrastructure with Terraform (4 days ago)
-- [PrismeaOpsTeam/Terrasafe](https://github.com/PrismeaOpsTeam/Terrasafe) -  (6 days ago)
+- [biograph-health/biograph-infra](https://github.com/biograph-health/biograph-infra) - Manage infrastructure with Terraform (5 days ago)
+- [PrismeaOpsTeam/Terrasafe](https://github.com/PrismeaOpsTeam/Terrasafe) -  (1 week ago)
 - [getseabird/seabird](https://github.com/getseabird/seabird) - Native Kubernetes desktop client. (2 weeks ago)
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (1 month ago)
 - [mberwanger/sliver-terraform](https://github.com/mberwanger/sliver-terraform) - Streamlined AWS Deployment for Sliver Adversary Emulation Framework (1 month ago)
