@@ -33,9 +33,9 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
-- [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud&#39;s Professional Services team. This repository and its contents are not an officially supported Google product. (6 days ago)
-- [biograph-health/biograph-infra](https://github.com/biograph-health/biograph-infra) - Manage infrastructure with Terraform (3 weeks ago)
-- [PrismeaOpsTeam/Terrasafe](https://github.com/PrismeaOpsTeam/Terrasafe) -  (4 weeks ago)
+- [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud&#39;s Professional Services team. This repository and its contents are not an officially supported Google product. (1 week ago)
+- [biograph-health/biograph-infra](https://github.com/biograph-health/biograph-infra) - Manage infrastructure with Terraform (4 weeks ago)
+- [PrismeaOpsTeam/Terrasafe](https://github.com/PrismeaOpsTeam/Terrasafe) -  (1 month ago)
 - [getseabird/seabird](https://github.com/getseabird/seabird) - Native Kubernetes desktop client. (1 month ago)
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (1 month ago)
 - [mberwanger/sliver-terraform](https://github.com/mberwanger/sliver-terraform) - Streamlined AWS Deployment for Sliver Adversary Emulation Framework (2 months ago)
