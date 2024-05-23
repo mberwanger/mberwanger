@@ -42,7 +42,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks. (2 months ago)
 - [DataliftHQ/admiral-action](https://github.com/DataliftHQ/admiral-action) - GitHub Action for Admiral (3 months ago)
 - [DataliftHQ/admiral-helm](https://github.com/DataliftHQ/admiral-helm) - Helm charts to install Admiral and other associated components. (3 months ago)
-- [chrede88/qubt](https://github.com/chrede88/qubt) - Qubt - Personal blog theme for Hugo (3 months ago)
+- [chrede88/qubt](https://github.com/chrede88/qubt) - Qubt - Personal blog theme for Hugo (4 months ago)
 
 #### 💬 Feedback
 
