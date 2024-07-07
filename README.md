@@ -5,10 +5,6 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 #### 👷 Check out what I'm currently working on
 
 - [mberwanger/terraform-gcp-project](https://github.com/mberwanger/terraform-gcp-project) - Terraform: Google Cloud Project layout (4 months ago)
-- [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (5 months ago)
-- [DataliftHQ/homebrew-tap](https://github.com/DataliftHQ/homebrew-tap) - Homebrew Tap of Datalift products and tools (5 months ago)
-- [DataliftHQ/scoop-bucket](https://github.com/DataliftHQ/scoop-bucket) - Scoop bucket for Datalift products and tools (5 months ago)
-- [DataliftHQ/admiral-helm](https://github.com/DataliftHQ/admiral-helm) - Helm charts to install Admiral and other associated components. (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,20 +16,18 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 🔭 Latest releases I've contributed to
 
-- [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) ([v0.1.0](https://github.com/DataliftHQ/admiral/releases/tag/v0.1.0), 3 months ago) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications.
-- [DataliftHQ/admiral-helm](https://github.com/DataliftHQ/admiral-helm) ([admiral-server-0.1.4](https://github.com/DataliftHQ/admiral-helm/releases/tag/admiral-server-0.1.4), 5 months ago) - Helm charts to install Admiral and other associated components.
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: rebrand](https://github.com/DataliftHQ/admiral/pull/22) on [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) (5 months ago)
-- [chore: rebrand](https://github.com/DataliftHQ/admiral-helm/pull/18) on [DataliftHQ/admiral-helm](https://github.com/DataliftHQ/admiral-helm) (5 months ago)
-- [chore: rebrand](https://github.com/DataliftHQ/admiral-action/pull/5) on [DataliftHQ/admiral-action](https://github.com/DataliftHQ/admiral-action) (5 months ago)
-- [fix: update FUNDING.yml](https://github.com/DataliftHQ/admiral/pull/21) on [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) (5 months ago)
-- [chore: create FUNDING.yml](https://github.com/DataliftHQ/admiral/pull/20) on [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) (5 months ago)
+- [rename namespaces to projects](https://github.com/mberwanger/gitops-cluster1/pull/5) on [mberwanger/gitops-cluster1](https://github.com/mberwanger/gitops-cluster1) (3 years ago)
+- [Improvements - RBAC and base cleanup](https://github.com/mberwanger/gitops-cluster1/pull/4) on [mberwanger/gitops-cluster1](https://github.com/mberwanger/gitops-cluster1) (3 years ago)
+- [Devel](https://github.com/mberwanger/gitops-cluster1/pull/3) on [mberwanger/gitops-cluster1](https://github.com/mberwanger/gitops-cluster1) (3 years ago)
+- [Devel](https://github.com/mberwanger/gitops-cluster1/pull/2) on [mberwanger/gitops-cluster1](https://github.com/mberwanger/gitops-cluster1) (3 years ago)
+- [WIP](https://github.com/mberwanger/gitops-cluster1/pull/1) on [mberwanger/gitops-cluster1](https://github.com/mberwanger/gitops-cluster1) (3 years ago)
 
 #### ⭐ Recent Stars
 
-- [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud&#39;s Professional Services team. This repository and its contents are not an officially supported Google product. (1 month ago)
+- [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud&#39;s Professional Services team. This repository and its contents are not an officially supported Google product. (2 months ago)
 - [biograph-health/biograph-infra](https://github.com/biograph-health/biograph-infra) - Manage infrastructure with Terraform (2 months ago)
 - [PrismeaOpsTeam/Terrasafe](https://github.com/PrismeaOpsTeam/Terrasafe) -  (2 months ago)
 - [getseabird/seabird](https://github.com/getseabird/seabird) - Native Kubernetes desktop client. (3 months ago)
