@@ -5,6 +5,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 #### 👷 Check out what I'm currently working on
 
 - [mberwanger/terraform-gcp-project](https://github.com/mberwanger/terraform-gcp-project) - Terraform: Google Cloud Project layout (4 months ago)
+- [DataliftHQ/demo-simple-app](https://github.com/DataliftHQ/demo-simple-app) - Deploy the demo app with Datalift (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -19,11 +20,11 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: initial import](https://github.com/DataliftHQ/demo-simple-app/pull/1) on [DataliftHQ/demo-simple-app](https://github.com/DataliftHQ/demo-simple-app) (5 months ago)
 - [rename namespaces to projects](https://github.com/mberwanger/gitops-cluster1/pull/5) on [mberwanger/gitops-cluster1](https://github.com/mberwanger/gitops-cluster1) (3 years ago)
 - [Improvements - RBAC and base cleanup](https://github.com/mberwanger/gitops-cluster1/pull/4) on [mberwanger/gitops-cluster1](https://github.com/mberwanger/gitops-cluster1) (3 years ago)
 - [Devel](https://github.com/mberwanger/gitops-cluster1/pull/3) on [mberwanger/gitops-cluster1](https://github.com/mberwanger/gitops-cluster1) (3 years ago)
 - [Devel](https://github.com/mberwanger/gitops-cluster1/pull/2) on [mberwanger/gitops-cluster1](https://github.com/mberwanger/gitops-cluster1) (3 years ago)
-- [WIP](https://github.com/mberwanger/gitops-cluster1/pull/1) on [mberwanger/gitops-cluster1](https://github.com/mberwanger/gitops-cluster1) (3 years ago)
 
 #### ⭐ Recent Stars
 
