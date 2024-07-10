@@ -4,12 +4,11 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 👷 Check out what I'm currently working on
 
-- [mberwanger/terraform-gcp-project](https://github.com/mberwanger/terraform-gcp-project) - Terraform: Google Cloud Project layout (4 months ago)
-- [DataliftHQ/demo-simple-app](https://github.com/DataliftHQ/demo-simple-app) - Deploy the demo app with Datalift (5 months ago)
+- [mberwanger/demo-simple-app](https://github.com/mberwanger/demo-simple-app) - Simple go web application (2 days ago)
 
 #### 🌱 My latest projects
 
-- [mberwanger/terraform-gcp-project](https://github.com/mberwanger/terraform-gcp-project) - Terraform: Google Cloud Project layout
+- [mberwanger/demo-simple-app](https://github.com/mberwanger/demo-simple-app) - Simple go web application
 - [mberwanger/scoop-bucket](https://github.com/mberwanger/scoop-bucket) - Scoop bucket for @mberwanger binaries
 - [mberwanger/demux-proxy](https://github.com/mberwanger/demux-proxy) - Proxy that takes a single input and then switches it to any one of a number of net interfaces
 - [mberwanger/homebrew-tap](https://github.com/mberwanger/homebrew-tap) - Homebrew Tap
@@ -20,11 +19,11 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: initial import](https://github.com/DataliftHQ/demo-simple-app/pull/1) on [DataliftHQ/demo-simple-app](https://github.com/DataliftHQ/demo-simple-app) (5 months ago)
 - [rename namespaces to projects](https://github.com/mberwanger/gitops-cluster1/pull/5) on [mberwanger/gitops-cluster1](https://github.com/mberwanger/gitops-cluster1) (3 years ago)
 - [Improvements - RBAC and base cleanup](https://github.com/mberwanger/gitops-cluster1/pull/4) on [mberwanger/gitops-cluster1](https://github.com/mberwanger/gitops-cluster1) (3 years ago)
 - [Devel](https://github.com/mberwanger/gitops-cluster1/pull/3) on [mberwanger/gitops-cluster1](https://github.com/mberwanger/gitops-cluster1) (3 years ago)
 - [Devel](https://github.com/mberwanger/gitops-cluster1/pull/2) on [mberwanger/gitops-cluster1](https://github.com/mberwanger/gitops-cluster1) (3 years ago)
+- [WIP](https://github.com/mberwanger/gitops-cluster1/pull/1) on [mberwanger/gitops-cluster1](https://github.com/mberwanger/gitops-cluster1) (3 years ago)
 
 #### ⭐ Recent Stars
 
@@ -35,9 +34,9 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (3 months ago)
 - [mberwanger/sliver-terraform](https://github.com/mberwanger/sliver-terraform) - Streamlined AWS Deployment for Sliver Adversary Emulation Framework (4 months ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI (4 months ago)
-- [DataliftHQ/admiral-action](https://github.com/DataliftHQ/admiral-action) - GitHub Action for Admiral (5 months ago)
-- [DataliftHQ/admiral-helm](https://github.com/DataliftHQ/admiral-helm) - Helm charts to install Admiral and other associated components. (5 months ago)
 - [chrede88/qubt](https://github.com/chrede88/qubt) - Qubt - Personal blog theme for Hugo (5 months ago)
+- [DataliftHQ/admiral](https://github.com/DataliftHQ/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (5 months ago)
+- [mitchellh/copystructure](https://github.com/mitchellh/copystructure) - Go (golang) library for deep copying values in Go. (6 months ago)
 
 #### 💬 Feedback
 
