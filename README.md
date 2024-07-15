@@ -4,7 +4,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 👷 Check out what I'm currently working on
 
-- [mberwanger/demo-simple-app](https://github.com/mberwanger/demo-simple-app) - Simple go web application (6 days ago)
+- [mberwanger/demo-simple-app](https://github.com/mberwanger/demo-simple-app) - Simple go web application (1 week ago)
 
 #### 🌱 My latest projects
 
