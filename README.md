@@ -27,6 +27,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
+- [inkdrop-org/inkdrop-visualizer](https://github.com/inkdrop-org/inkdrop-visualizer) - Visualizes your Terraform (1 day ago)
 - [biograph-health/biograph-clinic-client](https://github.com/biograph-health/biograph-clinic-client) - Web client for clinical workflows (1 week ago)
 - [aws/eks-anywhere-build-tooling](https://github.com/aws/eks-anywhere-build-tooling) - Build artifacts for upstream dependencies of Amazon EKS Anywhere - https://github.com/aws/eks-anywhere (1 month ago)
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud&#39;s Professional Services team. This repository and its contents are not an officially supported Google product. (4 months ago)
@@ -36,7 +37,6 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (5 months ago)
 - [mberwanger/sliver-terraform](https://github.com/mberwanger/sliver-terraform) - Streamlined AWS Deployment for Sliver Adversary Emulation Framework (6 months ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI (6 months ago)
-- [chrede88/qubt](https://github.com/chrede88/qubt) - Qubt - Personal blog theme for Hugo (7 months ago)
 
 #### 💬 Feedback
 
