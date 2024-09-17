@@ -27,6 +27,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 day ago)
 - [inkdrop-org/inkdrop-visualizer](https://github.com/inkdrop-org/inkdrop-visualizer) - Visualizes your Terraform (1 week ago)
 - [biograph-health/biograph-clinic-client](https://github.com/biograph-health/biograph-clinic-client) - Web client for clinical workflows (2 weeks ago)
 - [aws/eks-anywhere-build-tooling](https://github.com/aws/eks-anywhere-build-tooling) - Build artifacts for upstream dependencies of Amazon EKS Anywhere - https://github.com/aws/eks-anywhere (1 month ago)
@@ -36,7 +37,6 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [getseabird/seabird](https://github.com/getseabird/seabird) - Native Kubernetes desktop IDE designed for seamless cluster exploration (5 months ago)
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (6 months ago)
 - [mberwanger/sliver-terraform](https://github.com/mberwanger/sliver-terraform) - Streamlined AWS Deployment for Sliver Adversary Emulation Framework (6 months ago)
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI (6 months ago)
 
 #### 💬 Feedback
 
