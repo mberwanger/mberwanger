@@ -27,12 +27,12 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
-- [biograph-health/biograph-infra](https://github.com/biograph-health/biograph-infra) - Manage infrastructure with Terraform (1 day ago)
-- [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim. (4 days ago)
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40&#43; independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort (4 days ago)
+- [biograph-health/biograph-infra](https://github.com/biograph-health/biograph-infra) - Manage infrastructure with Terraform (2 days ago)
+- [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim. (5 days ago)
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40&#43; independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort (5 days ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 week ago)
-- [inkdrop-org/inkdrop-visualizer](https://github.com/inkdrop-org/inkdrop-visualizer) - Visualizes your Terraform (2 weeks ago)
-- [biograph-health/biograph-clinic-client](https://github.com/biograph-health/biograph-clinic-client) - Web client for clinical workflows (4 weeks ago)
+- [inkdrop-org/inkdrop-visualizer](https://github.com/inkdrop-org/inkdrop-visualizer) - Visualizes your Terraform (3 weeks ago)
+- [biograph-health/biograph-clinic-client](https://github.com/biograph-health/biograph-clinic-client) - Web client for clinical workflows (1 month ago)
 - [aws/eks-anywhere-build-tooling](https://github.com/aws/eks-anywhere-build-tooling) - Build artifacts for upstream dependencies of Amazon EKS Anywhere - https://github.com/aws/eks-anywhere (1 month ago)
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud&#39;s Professional Services team. This repository and its contents are not an officially supported Google product. (4 months ago)
 - [PrismeaOpsTeam/Terrasafe](https://github.com/PrismeaOpsTeam/Terrasafe) -  (5 months ago)
