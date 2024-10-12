@@ -8,22 +8,22 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 🌱 My latest projects
 
+- [mberwanger/DataliftHQ-admiral-proto-core-java](https://github.com/mberwanger/DataliftHQ-admiral-proto-core-java)
+- [mberwanger/DataliftHQ-admiral-proto-core-go](https://github.com/mberwanger/DataliftHQ-admiral-proto-core-go)
 - [mberwanger/demo-simple-app](https://github.com/mberwanger/demo-simple-app) - Simple go web application
 - [mberwanger/scoop-bucket](https://github.com/mberwanger/scoop-bucket) - Scoop bucket for @mberwanger binaries
 - [mberwanger/demux-proxy](https://github.com/mberwanger/demux-proxy) - Proxy that takes a single input and then switches it to any one of a number of net interfaces
-- [mberwanger/homebrew-tap](https://github.com/mberwanger/homebrew-tap) - Homebrew Tap
-- [mberwanger/gitops-team1](https://github.com/mberwanger/gitops-team1)
 
 #### 🔭 Latest releases I've contributed to
 
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: update admiral paths](https://github.com/DataliftHQ/govanityurls/pull/1) on [DataliftHQ/govanityurls](https://github.com/DataliftHQ/govanityurls) (1 day ago)
+- [Invalid PR](https://github.com/GoogleCloudPlatform/govanityurls/pull/53) on [GoogleCloudPlatform/govanityurls](https://github.com/GoogleCloudPlatform/govanityurls) (1 day ago)
 - [rename namespaces to projects](https://github.com/mberwanger/gitops-cluster1/pull/5) on [mberwanger/gitops-cluster1](https://github.com/mberwanger/gitops-cluster1) (4 years ago)
 - [Improvements - RBAC and base cleanup](https://github.com/mberwanger/gitops-cluster1/pull/4) on [mberwanger/gitops-cluster1](https://github.com/mberwanger/gitops-cluster1) (4 years ago)
 - [Devel](https://github.com/mberwanger/gitops-cluster1/pull/3) on [mberwanger/gitops-cluster1](https://github.com/mberwanger/gitops-cluster1) (4 years ago)
-- [Devel](https://github.com/mberwanger/gitops-cluster1/pull/2) on [mberwanger/gitops-cluster1](https://github.com/mberwanger/gitops-cluster1) (4 years ago)
-- [WIP](https://github.com/mberwanger/gitops-cluster1/pull/1) on [mberwanger/gitops-cluster1](https://github.com/mberwanger/gitops-cluster1) (4 years ago)
 
 #### ⭐ Recent Stars
 
@@ -35,7 +35,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [biograph-health/biograph-clinic-client](https://github.com/biograph-health/biograph-clinic-client) - Web client for clinical workflows (1 month ago)
 - [aws/eks-anywhere-build-tooling](https://github.com/aws/eks-anywhere-build-tooling) - Build artifacts for upstream dependencies of Amazon EKS Anywhere - https://github.com/aws/eks-anywhere (2 months ago)
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud&#39;s Professional Services team. This repository and its contents are not an officially supported Google product. (5 months ago)
-- [PrismeaOpsTeam/Terrasafe](https://github.com/PrismeaOpsTeam/Terrasafe) -  (5 months ago)
+- [PrismeaOpsTeam/Terrasafe](https://github.com/PrismeaOpsTeam/Terrasafe) -  (6 months ago)
 - [getseabird/seabird](https://github.com/getseabird/seabird) - Native Kubernetes desktop IDE designed for seamless cluster exploration (6 months ago)
 
 #### 💬 Feedback
