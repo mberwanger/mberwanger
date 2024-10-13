@@ -8,19 +8,19 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 🌱 My latest projects
 
-- [mberwanger/DataliftHQ-admiral-proto-core-java](https://github.com/mberwanger/DataliftHQ-admiral-proto-core-java)
-- [mberwanger/DataliftHQ-admiral-proto-core-go](https://github.com/mberwanger/DataliftHQ-admiral-proto-core-go)
 - [mberwanger/demo-simple-app](https://github.com/mberwanger/demo-simple-app) - Simple go web application
 - [mberwanger/scoop-bucket](https://github.com/mberwanger/scoop-bucket) - Scoop bucket for @mberwanger binaries
 - [mberwanger/demux-proxy](https://github.com/mberwanger/demux-proxy) - Proxy that takes a single input and then switches it to any one of a number of net interfaces
+- [mberwanger/homebrew-tap](https://github.com/mberwanger/homebrew-tap) - Homebrew Tap
+- [mberwanger/gitops-team1](https://github.com/mberwanger/gitops-team1)
 
 #### 🔭 Latest releases I've contributed to
 
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: update admiral paths](https://github.com/DataliftHQ/govanityurls/pull/1) on [DataliftHQ/govanityurls](https://github.com/DataliftHQ/govanityurls) (1 day ago)
-- [Invalid PR](https://github.com/GoogleCloudPlatform/govanityurls/pull/53) on [GoogleCloudPlatform/govanityurls](https://github.com/GoogleCloudPlatform/govanityurls) (1 day ago)
+- [Invalid PR ](https://github.com/GoogleCloudPlatform/govanityurls/pull/54) on [GoogleCloudPlatform/govanityurls](https://github.com/GoogleCloudPlatform/govanityurls) (1 day ago)
+- [Invalid PR](https://github.com/GoogleCloudPlatform/govanityurls/pull/53) on [GoogleCloudPlatform/govanityurls](https://github.com/GoogleCloudPlatform/govanityurls) (2 days ago)
 - [rename namespaces to projects](https://github.com/mberwanger/gitops-cluster1/pull/5) on [mberwanger/gitops-cluster1](https://github.com/mberwanger/gitops-cluster1) (4 years ago)
 - [Improvements - RBAC and base cleanup](https://github.com/mberwanger/gitops-cluster1/pull/4) on [mberwanger/gitops-cluster1](https://github.com/mberwanger/gitops-cluster1) (4 years ago)
 - [Devel](https://github.com/mberwanger/gitops-cluster1/pull/3) on [mberwanger/gitops-cluster1](https://github.com/mberwanger/gitops-cluster1) (4 years ago)
@@ -28,8 +28,8 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 #### ⭐ Recent Stars
 
 - [biograph-health/biograph-infra](https://github.com/biograph-health/biograph-infra) - Manage infrastructure with Terraform (2 weeks ago)
-- [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim. (2 weeks ago)
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40&#43; independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort (2 weeks ago)
+- [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim. (3 weeks ago)
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40&#43; independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort (3 weeks ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (3 weeks ago)
 - [inkdrop-org/inkdrop-visualizer](https://github.com/inkdrop-org/inkdrop-visualizer) - Visualizes your Terraform (1 month ago)
 - [biograph-health/biograph-clinic-client](https://github.com/biograph-health/biograph-clinic-client) - Web client for clinical workflows (1 month ago)
