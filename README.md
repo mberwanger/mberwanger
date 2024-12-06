@@ -27,7 +27,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓 (3 days ago)
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓 (4 days ago)
 - [thumbor/awesome-thumbor](https://github.com/thumbor/awesome-thumbor) - Everything thumbor, awesomely curated &amp; updated weekly. (3 weeks ago)
 - [biograph-health/biograph-infra](https://github.com/biograph-health/biograph-infra) - Manage infrastructure with Terraform (2 months ago)
 - [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim. (2 months ago)
