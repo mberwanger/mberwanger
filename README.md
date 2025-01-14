@@ -27,15 +27,15 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
-- [fastly/cli](https://github.com/fastly/cli) - Build, deploy and configure Fastly services from your terminal (1 day ago)
-- [coreruleset/coreruleset](https://github.com/coreruleset/coreruleset) - OWASP CRS (Official Repository) (3 weeks ago)
+- [fastly/cli](https://github.com/fastly/cli) - Build, deploy and configure Fastly services from your terminal (2 days ago)
+- [coreruleset/coreruleset](https://github.com/coreruleset/coreruleset) - OWASP CRS (Official Repository) (4 weeks ago)
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®. (1 month ago)
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓 (1 month ago)
 - [thumbor/awesome-thumbor](https://github.com/thumbor/awesome-thumbor) - Everything thumbor, awesomely curated &amp; updated weekly. (2 months ago)
 - [biograph-health/biograph-infra](https://github.com/biograph-health/biograph-infra) - Manage infrastructure with Terraform (3 months ago)
 - [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim. (3 months ago)
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40&#43; independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort (3 months ago)
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (3 months ago)
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (4 months ago)
 - [inkdrop-org/inkdrop-visualizer](https://github.com/inkdrop-org/inkdrop-visualizer) - Visualizes your Terraform (4 months ago)
 
 #### 💬 Feedback
