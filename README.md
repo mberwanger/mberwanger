@@ -27,8 +27,8 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
-- [fastly/cli](https://github.com/fastly/cli) - Build, deploy and configure Fastly services from your terminal (3 days ago)
-- [coreruleset/coreruleset](https://github.com/coreruleset/coreruleset) - OWASP CRS (Official Repository) (4 weeks ago)
+- [fastly/cli](https://github.com/fastly/cli) - Build, deploy and configure Fastly services from your terminal (4 days ago)
+- [coreruleset/coreruleset](https://github.com/coreruleset/coreruleset) - OWASP CRS (Official Repository) (1 month ago)
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®. (1 month ago)
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓 (1 month ago)
 - [thumbor/awesome-thumbor](https://github.com/thumbor/awesome-thumbor) - Everything thumbor, awesomely curated &amp; updated weekly. (2 months ago)
