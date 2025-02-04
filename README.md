@@ -27,6 +27,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
+- [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website (1 day ago)
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images (1 week ago)
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket: (1 week ago)
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (1 week ago)
@@ -36,7 +37,6 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®. (1 month ago)
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓 (2 months ago)
 - [thumbor/awesome-thumbor](https://github.com/thumbor/awesome-thumbor) - Everything thumbor, awesomely curated &amp; updated weekly. (2 months ago)
-- [biograph-health/biograph-infra](https://github.com/biograph-health/biograph-infra) - Manage infrastructure with Terraform (4 months ago)
 
 #### 💬 Feedback
 
