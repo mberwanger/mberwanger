@@ -27,7 +27,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
-- [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website (6 days ago)
+- [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website (1 week ago)
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images (2 weeks ago)
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket: (2 weeks ago)
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (2 weeks ago)
