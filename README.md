@@ -4,7 +4,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 👷 Check out what I'm currently working on
 
-- [mberwanger/demo-simple-app](https://github.com/mberwanger/demo-simple-app) - Simple go web application (7 months ago)
+- [mberwanger/demo-simple-app](https://github.com/mberwanger/demo-simple-app) - Simple go web application (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -32,7 +32,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers. (3 weeks ago)
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web (3 weeks ago)
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js (3 weeks ago)
-- [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website (4 weeks ago)
+- [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website (1 month ago)
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images (1 month ago)
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket: (1 month ago)
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (1 month ago)
