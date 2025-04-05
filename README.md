@@ -4,9 +4,9 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 👷 Check out what I'm currently working on
 
-- [mberwanger/admiral](https://github.com/mberwanger/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (1 day ago)
-- [mberwanger/admiral-helm](https://github.com/mberwanger/admiral-helm) - Official helm charts for Admiral project (5 days ago)
-- [mberwanger/admiral-controller](https://github.com/mberwanger/admiral-controller) - Kubernetes controller for multi-cluster orchestration and synchronization. (5 days ago)
+- [mberwanger/admiral](https://github.com/mberwanger/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (2 days ago)
+- [mberwanger/admiral-helm](https://github.com/mberwanger/admiral-helm) - Official helm charts for Admiral project (6 days ago)
+- [mberwanger/admiral-controller](https://github.com/mberwanger/admiral-controller) - Kubernetes controller for multi-cluster orchestration and synchronization. (6 days ago)
 - [biograph-health/interview-platform-external-asrtdd](https://github.com/biograph-health/interview-platform-external-asrtdd) (1 week ago)
 - [mberwanger/demo-simple-app](https://github.com/mberwanger/demo-simple-app) - Simple go web application (9 months ago)
 
@@ -23,9 +23,9 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: update readme badges](https://github.com/mberwanger/admiral/pull/28) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (1 day ago)
-- [feat: refactor layout](https://github.com/mberwanger/admiral/pull/24) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (1 day ago)
-- [feat: add docker workflow](https://github.com/mberwanger/admiral-controller/pull/1) on [mberwanger/admiral-controller](https://github.com/mberwanger/admiral-controller) (5 days ago)
+- [chore: update readme badges](https://github.com/mberwanger/admiral/pull/28) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (2 days ago)
+- [feat: refactor layout](https://github.com/mberwanger/admiral/pull/24) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (2 days ago)
+- [feat: add docker workflow](https://github.com/mberwanger/admiral-controller/pull/1) on [mberwanger/admiral-controller](https://github.com/mberwanger/admiral-controller) (6 days ago)
 - [feat: initial import](https://github.com/mberwanger/admiral/pull/1) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (1 week ago)
 - [Invalid PR ](https://github.com/GoogleCloudPlatform/govanityurls/pull/54) on [GoogleCloudPlatform/govanityurls](https://github.com/GoogleCloudPlatform/govanityurls) (5 months ago)
 
