@@ -31,6 +31,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
+- [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? (1 day ago)
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts (2 months ago)
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better) (2 months ago)
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers. (2 months ago)
@@ -40,7 +41,6 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images (2 months ago)
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket: (2 months ago)
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (2 months ago)
-- [some-natalie/kubernoodles](https://github.com/some-natalie/kubernoodles) - k8s runners for GitHub Actions in the enterprise, made for humans (2 months ago)
 
 #### 💬 Feedback
 
