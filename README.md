@@ -23,7 +23,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: add handlers](https://github.com/mberwanger/admiral/pull/33) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (1 day ago)
+- [feat: add handlers](https://github.com/mberwanger/admiral/pull/33) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (2 days ago)
 - [chore: update readme badges](https://github.com/mberwanger/admiral/pull/28) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (2 weeks ago)
 - [feat: refactor layout](https://github.com/mberwanger/admiral/pull/24) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (2 weeks ago)
 - [feat: add docker workflow](https://github.com/mberwanger/admiral-controller/pull/1) on [mberwanger/admiral-controller](https://github.com/mberwanger/admiral-controller) (3 weeks ago)
@@ -31,7 +31,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
-- [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? (5 days ago)
+- [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? (6 days ago)
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts (2 months ago)
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better) (2 months ago)
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers. (2 months ago)
