@@ -20,7 +20,6 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 🔭 Latest releases I've contributed to
 
-- [mberwanger/admiral](https://github.com/mberwanger/admiral) ([v0.1.2](https://github.com/mberwanger/admiral/releases/tag/v0.1.2), 1 day ago) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications.
 
 #### 🔨 Latest Pull Requests I published
 
