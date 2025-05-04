@@ -8,7 +8,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [mberwanger/admiral-helm](https://github.com/mberwanger/admiral-helm) - Official helm charts for Admiral project (1 month ago)
 - [mberwanger/admiral-controller](https://github.com/mberwanger/admiral-controller) - Kubernetes controller for multi-cluster orchestration and synchronization. (1 month ago)
 - [biograph-health/interview-platform-external-asrtdd](https://github.com/biograph-health/interview-platform-external-asrtdd) (1 month ago)
-- [mberwanger/demo-simple-app](https://github.com/mberwanger/demo-simple-app) - Simple go web application (9 months ago)
+- [mberwanger/demo-simple-app](https://github.com/mberwanger/demo-simple-app) - Simple go web application (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -37,7 +37,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers. (2 months ago)
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web (2 months ago)
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js (2 months ago)
-- [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website (2 months ago)
+- [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website (3 months ago)
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images (3 months ago)
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket: (3 months ago)
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (3 months ago)
