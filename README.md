@@ -4,7 +4,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 👷 Check out what I'm currently working on
 
-- [mberwanger/admiral](https://github.com/mberwanger/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (1 month ago)
+- [mberwanger/admiral](https://github.com/mberwanger/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (2 months ago)
 - [mberwanger/admiral-helm](https://github.com/mberwanger/admiral-helm) - Official helm charts for Admiral project (2 months ago)
 - [mberwanger/admiral-controller](https://github.com/mberwanger/admiral-controller) - Kubernetes controller for multi-cluster orchestration and synchronization. (2 months ago)
 - [biograph-health/interview-platform-external-asrtdd](https://github.com/biograph-health/interview-platform-external-asrtdd) (2 months ago)
@@ -24,8 +24,8 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 #### 🔨 Latest Pull Requests I published
 
 - [feat: add handlers](https://github.com/mberwanger/admiral/pull/33) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (1 month ago)
-- [chore: update readme badges](https://github.com/mberwanger/admiral/pull/28) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (1 month ago)
-- [feat: refactor layout](https://github.com/mberwanger/admiral/pull/24) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (1 month ago)
+- [chore: update readme badges](https://github.com/mberwanger/admiral/pull/28) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (2 months ago)
+- [feat: refactor layout](https://github.com/mberwanger/admiral/pull/24) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (2 months ago)
 - [feat: add docker workflow](https://github.com/mberwanger/admiral-controller/pull/1) on [mberwanger/admiral-controller](https://github.com/mberwanger/admiral-controller) (2 months ago)
 - [feat: initial import](https://github.com/mberwanger/admiral/pull/1) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (2 months ago)
 
