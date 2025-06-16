@@ -31,8 +31,8 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
-- [biograph-health/biograph-data-warehouse](https://github.com/biograph-health/biograph-data-warehouse) - Data ingestion and modeling enabling analytics (1 week ago)
-- [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? (1 month ago)
+- [biograph-health/biograph-data-warehouse](https://github.com/biograph-health/biograph-data-warehouse) - Data ingestion and modeling enabling analytics (2 weeks ago)
+- [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? (2 months ago)
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts (4 months ago)
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better) (4 months ago)
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers. (4 months ago)
