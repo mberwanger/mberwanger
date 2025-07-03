@@ -8,7 +8,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [mberwanger/admiral-helm](https://github.com/mberwanger/admiral-helm) - Official helm charts for Admiral project (3 months ago)
 - [mberwanger/admiral-controller](https://github.com/mberwanger/admiral-controller) - Kubernetes controller for multi-cluster orchestration and synchronization. (3 months ago)
 - [biograph-health/interview-platform-external-asrtdd](https://github.com/biograph-health/interview-platform-external-asrtdd) (3 months ago)
-- [mberwanger/demo-simple-app](https://github.com/mberwanger/demo-simple-app) - Simple go web application (11 months ago)
+- [mberwanger/demo-simple-app](https://github.com/mberwanger/demo-simple-app) - Simple go web application (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -31,6 +31,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
+- [coleam00/Archon](https://github.com/coleam00/Archon) - Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents. (1 day ago)
 - [biograph-health/biograph-data-warehouse](https://github.com/biograph-health/biograph-data-warehouse) - Data ingestion and processing (1 month ago)
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? (2 months ago)
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts (4 months ago)
@@ -38,9 +39,8 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers. (4 months ago)
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web (4 months ago)
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js (4 months ago)
-- [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website (4 months ago)
+- [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website (5 months ago)
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images (5 months ago)
-- [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket: (5 months ago)
 
 #### 💬 Feedback
 
