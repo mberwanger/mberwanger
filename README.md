@@ -4,7 +4,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 👷 Check out what I'm currently working on
 
-- [mberwanger/admiral](https://github.com/mberwanger/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (2 weeks ago)
+- [mberwanger/admiral](https://github.com/mberwanger/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (1 day ago)
 - [mberwanger/admiral-helm](https://github.com/mberwanger/admiral-helm) - Official helm charts for Admiral project (3 months ago)
 - [mberwanger/admiral-controller](https://github.com/mberwanger/admiral-controller) - Kubernetes controller for multi-cluster orchestration and synchronization. (3 months ago)
 - [biograph-health/interview-platform-external-asrtdd](https://github.com/biograph-health/interview-platform-external-asrtdd) (3 months ago)
@@ -22,15 +22,15 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: refactor auth](https://github.com/mberwanger/admiral/pull/33) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (2 months ago)
+- [feat: refactor server and web testing](https://github.com/mberwanger/admiral/pull/120) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (1 day ago)
+- [feat: refactor auth](https://github.com/mberwanger/admiral/pull/33) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (3 months ago)
 - [chore: update readme badges](https://github.com/mberwanger/admiral/pull/28) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (3 months ago)
 - [feat: refactor layout](https://github.com/mberwanger/admiral/pull/24) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (3 months ago)
 - [feat: add docker workflow](https://github.com/mberwanger/admiral-controller/pull/1) on [mberwanger/admiral-controller](https://github.com/mberwanger/admiral-controller) (3 months ago)
-- [feat: initial import](https://github.com/mberwanger/admiral/pull/1) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [xai-org/grok-prompts](https://github.com/xai-org/grok-prompts) - Prompts for our Grok chat assistant and the `@grok` bot on X. (6 days ago)
+- [xai-org/grok-prompts](https://github.com/xai-org/grok-prompts) - Prompts for our Grok chat assistant and the `@grok` bot on X. (1 week ago)
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors (2 weeks ago)
 - [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform! (2 weeks ago)
 - [temporal-community/temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent) - This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow. (2 weeks ago)
