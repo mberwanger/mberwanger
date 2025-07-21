@@ -22,11 +22,11 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: refactor server and web testing](https://github.com/mberwanger/admiral/pull/120) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (1 day ago)
-- [feat: refactor auth](https://github.com/mberwanger/admiral/pull/33) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (3 months ago)
-- [chore: update readme badges](https://github.com/mberwanger/admiral/pull/28) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (3 months ago)
-- [feat: refactor layout](https://github.com/mberwanger/admiral/pull/24) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (3 months ago)
-- [feat: add docker workflow](https://github.com/mberwanger/admiral-controller/pull/1) on [mberwanger/admiral-controller](https://github.com/mberwanger/admiral-controller) (3 months ago)
+- [fix: release workflow](https://github.com/mberwanger/admiral/pull/129) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (1 day ago)
+- [fix: release workflow](https://github.com/mberwanger/admiral/pull/128) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (1 day ago)
+- [fix: release workflow](https://github.com/mberwanger/admiral/pull/127) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (1 day ago)
+- [chore: minor improvements](https://github.com/mberwanger/admiral/pull/126) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (1 day ago)
+- [feat: refactor server and web testing](https://github.com/mberwanger/admiral/pull/120) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (2 days ago)
 
 #### ⭐ Recent Stars
 
