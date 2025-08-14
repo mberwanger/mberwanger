@@ -4,7 +4,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 👷 Check out what I'm currently working on
 
-- [mberwanger/admiral](https://github.com/mberwanger/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (1 week ago)
+- [mberwanger/admiral](https://github.com/mberwanger/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (2 weeks ago)
 - [mberwanger/admiral-helm](https://github.com/mberwanger/admiral-helm) - Official helm charts for Admiral project (2 weeks ago)
 - [mberwanger/admiral-controller](https://github.com/mberwanger/admiral-controller) - Kubernetes controller for multi-cluster orchestration and synchronization. (4 months ago)
 - [biograph-health/interview-platform-external-asrtdd](https://github.com/biograph-health/interview-platform-external-asrtdd) (4 months ago)
@@ -19,13 +19,13 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 🔭 Latest releases I've contributed to
 
-- [mberwanger/admiral](https://github.com/mberwanger/admiral) ([v0.1.0](https://github.com/mberwanger/admiral/releases/tag/v0.1.0), 1 week ago) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications.
+- [mberwanger/admiral](https://github.com/mberwanger/admiral) ([v0.1.0](https://github.com/mberwanger/admiral/releases/tag/v0.1.0), 2 weeks ago) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications.
 - [mberwanger/admiral-helm](https://github.com/mberwanger/admiral-helm) ([admiral-worker-0.1.0](https://github.com/mberwanger/admiral-helm/releases/tag/admiral-worker-0.1.0), 2 weeks ago) - Official helm charts for Admiral project
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: provenance checksum location](https://github.com/mberwanger/admiral/pull/157) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (1 week ago)
-- [chore: improve ci/cd tooling and fix all linting issues](https://github.com/mberwanger/admiral/pull/156) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (1 week ago)
+- [fix: provenance checksum location](https://github.com/mberwanger/admiral/pull/157) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (2 weeks ago)
+- [chore: improve ci/cd tooling and fix all linting issues](https://github.com/mberwanger/admiral/pull/156) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (2 weeks ago)
 - [chore: improve publish workflow](https://github.com/mberwanger/admiral-helm/pull/20) on [mberwanger/admiral-helm](https://github.com/mberwanger/admiral-helm) (2 weeks ago)
 - [feat: update admiral-server chart](https://github.com/mberwanger/admiral-helm/pull/17) on [mberwanger/admiral-helm](https://github.com/mberwanger/admiral-helm) (2 weeks ago)
 - [feat: add comprehensive UI component library with Storybook integration and improved application management](https://github.com/mberwanger/admiral/pull/146) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (2 weeks ago)
@@ -39,7 +39,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform! (1 month ago)
 - [temporal-community/temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent) - This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow. (1 month ago)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (1 month ago)
-- [coleam00/Archon](https://github.com/coleam00/Archon) - Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents. (1 month ago)
+- [coleam00/Archon](https://github.com/coleam00/Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. (1 month ago)
 - [biograph-health/biograph-data-warehouse](https://github.com/biograph-health/biograph-data-warehouse) - Data ingestion and processing (2 months ago)
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? (3 months ago)
 
