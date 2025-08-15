@@ -41,7 +41,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (1 month ago)
 - [coleam00/Archon](https://github.com/coleam00/Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. (1 month ago)
 - [biograph-health/biograph-data-warehouse](https://github.com/biograph-health/biograph-data-warehouse) - Data ingestion and processing (2 months ago)
-- [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? (3 months ago)
+- [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? (4 months ago)
 
 #### 💬 Feedback
 
