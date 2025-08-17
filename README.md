@@ -28,7 +28,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [chore: improve ci/cd tooling and fix all linting issues](https://github.com/mberwanger/admiral/pull/156) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (2 weeks ago)
 - [chore: improve publish workflow](https://github.com/mberwanger/admiral-helm/pull/20) on [mberwanger/admiral-helm](https://github.com/mberwanger/admiral-helm) (2 weeks ago)
 - [feat: update admiral-server chart](https://github.com/mberwanger/admiral-helm/pull/17) on [mberwanger/admiral-helm](https://github.com/mberwanger/admiral-helm) (2 weeks ago)
-- [feat: add comprehensive UI component library with Storybook integration and improved application management](https://github.com/mberwanger/admiral/pull/146) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (2 weeks ago)
+- [feat: add comprehensive UI component library with Storybook integration and improved application management](https://github.com/mberwanger/admiral/pull/146) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
