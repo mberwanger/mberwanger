@@ -33,6 +33,8 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
+- [biograph-health/biograph-security-token-service](https://github.com/biograph-health/biograph-security-token-service) - Security Token Service (STS) for federated authentication - handles OAuth/OIDC token exchange across Okta, Auth0, and GCP identity providers (1 day ago)
+- [biograph-health/biograph-dockerfiles](https://github.com/biograph-health/biograph-dockerfiles) - Build and publish custom Docker images using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (1 day ago)
 - [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (3 weeks ago)
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket: (3 weeks ago)
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts (3 months ago)
@@ -41,8 +43,6 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors (3 months ago)
 - [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform! (3 months ago)
 - [temporal-community/temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent) - This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow. (3 months ago)
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (3 months ago)
-- [coleam00/Archon](https://github.com/coleam00/Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. (3 months ago)
 
 #### 💬 Feedback
 
