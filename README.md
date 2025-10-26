@@ -4,10 +4,10 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 👷 Check out what I'm currently working on
 
-- [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (1 month ago)
+- [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (1 day ago)
 - [mberwanger/admiral](https://github.com/mberwanger/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (2 months ago)
 - [mberwanger/admiral-helm](https://github.com/mberwanger/admiral-helm) - Official helm charts for Admiral project (2 months ago)
-- [mberwanger/admiral-controller](https://github.com/mberwanger/admiral-controller) - Kubernetes controller for multi-cluster orchestration and synchronization. (6 months ago)
+- [mberwanger/admiral-controller](https://github.com/mberwanger/admiral-controller) - Kubernetes controller for multi-cluster orchestration and synchronization. (7 months ago)
 - [biograph-health/interview-platform-external-asrtdd](https://github.com/biograph-health/interview-platform-external-asrtdd) (7 months ago)
 
 #### 🌱 My latest projects
@@ -25,16 +25,16 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: issue with scheduled build](https://github.com/mberwanger/dockerfiles/pull/2) on [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) (1 day ago)
 - [fix: remove authn token kind trigger](https://github.com/mberwanger/admiral/pull/178) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (2 months ago)
 - [fix: code scanning findings](https://github.com/mberwanger/admiral/pull/177) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (2 months ago)
 - [feat: add codeowners](https://github.com/mberwanger/admiral/pull/176) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (2 months ago)
 - [fix: code scanning findings](https://github.com/mberwanger/admiral/pull/175) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (2 months ago)
-- [feat: add fossa badge to README](https://github.com/mberwanger/admiral/pull/174) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [biograph-health/biograph-security-token-service](https://github.com/biograph-health/biograph-security-token-service) - Security Token Service (STS) for federated authentication - handles OAuth/OIDC token exchange across Okta, Auth0, and GCP identity providers (2 days ago)
-- [biograph-health/biograph-dockerfiles](https://github.com/biograph-health/biograph-dockerfiles) - Build and publish custom Docker images using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (2 days ago)
+- [biograph-health/biograph-security-token-service](https://github.com/biograph-health/biograph-security-token-service) - Security Token Service (STS) for federated authentication - handles OAuth/OIDC token exchange across Okta, Auth0, and GCP identity providers (3 days ago)
+- [biograph-health/biograph-dockerfiles](https://github.com/biograph-health/biograph-dockerfiles) - Build and publish custom Docker images using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (3 days ago)
 - [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (3 weeks ago)
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket: (3 weeks ago)
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts (3 months ago)
