@@ -33,8 +33,8 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard (5 days ago)
-- [andrefigueira/.context](https://github.com/andrefigueira/.context) - A Git-native, AI-optimized documentation system that turns your repo into a living knowledge base.  (6 days ago)
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard (6 days ago)
+- [andrefigueira/.context](https://github.com/andrefigueira/.context) - A Git-native, AI-optimized documentation system that turns your repo into a living knowledge base.  (1 week ago)
 - [biograph-health/biograph-security-token-service](https://github.com/biograph-health/biograph-security-token-service) - Security Token Service (STS) for federated authentication - handles OAuth/OIDC token exchange across Okta, Auth0, and GCP identity providers (2 weeks ago)
 - [biograph-health/biograph-dockerfiles](https://github.com/biograph-health/biograph-dockerfiles) - Build and publish custom Docker images using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (2 weeks ago)
 - [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (1 month ago)
