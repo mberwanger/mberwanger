@@ -25,7 +25,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: add claude, gemini and opencode utils](https://github.com/mberwanger/dockerfiles/pull/3) on [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) (1 week ago)
+- [feat: add claude, gemini and opencode utils](https://github.com/mberwanger/dockerfiles/pull/3) on [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) (2 weeks ago)
 - [fix: issue with scheduled build](https://github.com/mberwanger/dockerfiles/pull/2) on [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) (2 weeks ago)
 - [fix: remove authn token kind trigger](https://github.com/mberwanger/admiral/pull/178) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (2 months ago)
 - [fix: code scanning findings](https://github.com/mberwanger/admiral/pull/177) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (2 months ago)
@@ -33,10 +33,10 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
-- [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) - Claude Code Comprehensive Guide (2 days ago)
-- [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) -  (2 days ago)
-- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (2 days ago)
-- [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents (2 days ago)
+- [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) - Claude Code Comprehensive Guide (3 days ago)
+- [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) -  (3 days ago)
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (3 days ago)
+- [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents (3 days ago)
 - [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard (1 week ago)
 - [andrefigueira/.context](https://github.com/andrefigueira/.context) - A Git-native, AI-optimized documentation system that turns your repo into a living knowledge base.  (1 week ago)
 - [biograph-health/biograph-security-token-service](https://github.com/biograph-health/biograph-security-token-service) - Security Token Service (STS) for federated authentication - handles OAuth/OIDC token exchange across Okta, Auth0, and GCP identity providers (2 weeks ago)
