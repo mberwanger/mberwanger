@@ -33,14 +33,14 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
-- [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) - Claude Code Comprehensive Guide (3 days ago)
-- [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) -  (3 days ago)
-- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (3 days ago)
-- [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents (3 days ago)
+- [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) - Claude Code Comprehensive Guide (4 days ago)
+- [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) -  (4 days ago)
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (4 days ago)
+- [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents (4 days ago)
 - [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard (1 week ago)
 - [andrefigueira/.context](https://github.com/andrefigueira/.context) - A Git-native, AI-optimized documentation system that turns your repo into a living knowledge base.  (1 week ago)
-- [biograph-health/biograph-security-token-service](https://github.com/biograph-health/biograph-security-token-service) - Security Token Service (STS) for federated authentication - handles OAuth/OIDC token exchange across Okta, Auth0, and GCP identity providers (2 weeks ago)
-- [biograph-health/biograph-dockerfiles](https://github.com/biograph-health/biograph-dockerfiles) - Build and publish custom Docker images using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (2 weeks ago)
+- [biograph-health/biograph-security-token-service](https://github.com/biograph-health/biograph-security-token-service) - Security Token Service (STS) for federated authentication - handles OAuth/OIDC token exchange across Okta, Auth0, and GCP identity providers (3 weeks ago)
+- [biograph-health/biograph-dockerfiles](https://github.com/biograph-health/biograph-dockerfiles) - Build and publish custom Docker images using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (3 weeks ago)
 - [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (1 month ago)
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket: (1 month ago)
 
