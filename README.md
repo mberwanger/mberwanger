@@ -4,9 +4,9 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 👷 Check out what I'm currently working on
 
-- [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (4 weeks ago)
+- [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (1 month ago)
 - [mberwanger/admiral](https://github.com/mberwanger/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (3 months ago)
-- [mberwanger/admiral-helm](https://github.com/mberwanger/admiral-helm) - Official helm charts for Admiral project (3 months ago)
+- [mberwanger/admiral-helm](https://github.com/mberwanger/admiral-helm) - Official helm charts for Admiral project (4 months ago)
 - [mberwanger/admiral-controller](https://github.com/mberwanger/admiral-controller) - Kubernetes controller for multi-cluster orchestration and synchronization. (8 months ago)
 - [biograph-health/interview-platform-external-asrtdd](https://github.com/biograph-health/interview-platform-external-asrtdd) (8 months ago)
 
@@ -21,7 +21,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 #### 🔭 Latest releases I've contributed to
 
 - [mberwanger/admiral](https://github.com/mberwanger/admiral) ([v0.1.0](https://github.com/mberwanger/admiral/releases/tag/v0.1.0), 3 months ago) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications.
-- [mberwanger/admiral-helm](https://github.com/mberwanger/admiral-helm) ([admiral-worker-0.1.0](https://github.com/mberwanger/admiral-helm/releases/tag/admiral-worker-0.1.0), 3 months ago) - Official helm charts for Admiral project
+- [mberwanger/admiral-helm](https://github.com/mberwanger/admiral-helm) ([admiral-worker-0.1.0](https://github.com/mberwanger/admiral-helm/releases/tag/admiral-worker-0.1.0), 4 months ago) - Official helm charts for Admiral project
 
 #### 🔨 Latest Pull Requests I published
 
@@ -37,7 +37,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) -  (2 weeks ago)
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (2 weeks ago)
 - [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents (2 weeks ago)
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard (3 weeks ago)
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/gemini/claude)self-evolution, and real-time dashboard (3 weeks ago)
 - [andrefigueira/.context](https://github.com/andrefigueira/.context) - A Git-native, AI-optimized documentation system that turns your repo into a living knowledge base.  (3 weeks ago)
 - [biograph-health/biograph-security-token-service](https://github.com/biograph-health/biograph-security-token-service) - Security Token Service (STS) for federated authentication - handles OAuth/OIDC token exchange across Okta, Auth0, and GCP identity providers (1 month ago)
 - [biograph-health/biograph-dockerfiles](https://github.com/biograph-health/biograph-dockerfiles) - Build and publish custom Docker images using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (1 month ago)
