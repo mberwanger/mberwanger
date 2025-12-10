@@ -4,19 +4,19 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 👷 Check out what I'm currently working on
 
-- [DataliftHQ/admiral-community](https://github.com/DataliftHQ/admiral-community) - Community hub for Admiral - Feature requests, bug reports, discussions, and public roadmap (3 days ago)
+- [DataliftHQ/admiral-action](https://github.com/DataliftHQ/admiral-action) - GitHub Action for Admiral (1 day ago)
+- [DataliftHQ/admiral-community](https://github.com/DataliftHQ/admiral-community) - Community hub for Admiral - Feature requests, bug reports, discussions, and public roadmap (4 days ago)
 - [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (1 month ago)
 - [mberwanger/admiral](https://github.com/mberwanger/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (3 months ago)
 - [mberwanger/admiral-helm](https://github.com/mberwanger/admiral-helm) - Official helm charts for Admiral project (4 months ago)
-- [mberwanger/admiral-controller](https://github.com/mberwanger/admiral-controller) - Kubernetes controller for multi-cluster orchestration and synchronization. (8 months ago)
 
 #### 🌱 My latest projects
 
 - [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering
-- [mberwanger/admiral-action](https://github.com/mberwanger/admiral-action)
 - [mberwanger/admiral-controller](https://github.com/mberwanger/admiral-controller) - Kubernetes controller for multi-cluster orchestration and synchronization.
-- [mberwanger/admiral-cli](https://github.com/mberwanger/admiral-cli)
 - [mberwanger/admiral-helm](https://github.com/mberwanger/admiral-helm) - Official helm charts for Admiral project
+- [mberwanger/admiral](https://github.com/mberwanger/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications.
+- [mberwanger/demo-simple-app](https://github.com/mberwanger/demo-simple-app) - Simple go web application
 
 #### 🔭 Latest releases I've contributed to
 
@@ -33,6 +33,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
+- [DataliftHQ/admiral-community](https://github.com/DataliftHQ/admiral-community) - Community hub for Admiral - Feature requests, bug reports, discussions, and public roadmap (1 day ago)
 - [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) - Claude Code Comprehensive Guide (1 month ago)
 - [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) -  (1 month ago)
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (1 month ago)
@@ -42,7 +43,6 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (2 months ago)
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket: (2 months ago)
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts (4 months ago)
-- [terminaldotshop/terminal](https://github.com/terminaldotshop/terminal) -  (4 months ago)
 
 #### 💬 Feedback
 
