@@ -4,7 +4,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 👷 Check out what I'm currently working on
 
-- [DataliftHQ/admiral-action](https://github.com/DataliftHQ/admiral-action) - GitHub Action for Admiral (5 days ago)
+- [DataliftHQ/admiral-action](https://github.com/DataliftHQ/admiral-action) - GitHub Action for Admiral (6 days ago)
 - [DataliftHQ/admiral-community](https://github.com/DataliftHQ/admiral-community) - Community hub for Admiral - Feature requests, bug reports, discussions, and public roadmap (1 week ago)
 - [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (1 month ago)
 - [mberwanger/admiral](https://github.com/mberwanger/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (3 months ago)
@@ -33,12 +33,12 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
-- [DataliftHQ/admiral-community](https://github.com/DataliftHQ/admiral-community) - Community hub for Admiral - Feature requests, bug reports, discussions, and public roadmap (5 days ago)
+- [DataliftHQ/admiral-community](https://github.com/DataliftHQ/admiral-community) - Community hub for Admiral - Feature requests, bug reports, discussions, and public roadmap (6 days ago)
 - [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) - Claude Code Comprehensive Guide (1 month ago)
 - [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) -  (1 month ago)
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (1 month ago)
 - [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents (1 month ago)
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/gemini/claude)self-evolution, and real-time dashboard (1 month ago)
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Open-source Trading OS with pluggable AI brain | From market data → AI reasoning → Trade execution | Self-hosted &amp; Multi-exchange (1 month ago)
 - [andrefigueira/.context](https://github.com/andrefigueira/.context) - A Git-native, AI-optimized documentation system that turns your repo into a living knowledge base.  (1 month ago)
 - [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (2 months ago)
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket: (2 months ago)
