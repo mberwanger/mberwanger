@@ -38,9 +38,9 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) -  (1 month ago)
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (1 month ago)
 - [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents (1 month ago)
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Open-source Trading OS with pluggable AI brain | From market data → AI reasoning → Trade execution | Self-hosted &amp; Multi-exchange (1 month ago)
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Open-source Trading OS with pluggable AI brain | From market data → AI reasoning → Trade execution | Self-hosted &amp; Multi-exchange (2 months ago)
 - [andrefigueira/.context](https://github.com/andrefigueira/.context) - A Git-native, AI-optimized documentation system that turns your repo into a living knowledge base.  (2 months ago)
-- [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (2 months ago)
+- [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (3 months ago)
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket: (3 months ago)
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts (5 months ago)
 
