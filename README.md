@@ -4,7 +4,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 👷 Check out what I'm currently working on
 
-- [DataliftHQ/admiral-action](https://github.com/DataliftHQ/admiral-action) - GitHub Action for Admiral (3 weeks ago)
+- [DataliftHQ/admiral-action](https://github.com/DataliftHQ/admiral-action) - GitHub Action for Admiral (4 weeks ago)
 - [DataliftHQ/admiral-community](https://github.com/DataliftHQ/admiral-community) - Community hub for Admiral - Feature requests, bug reports, discussions, and public roadmap (1 month ago)
 - [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (2 months ago)
 - [mberwanger/admiral](https://github.com/mberwanger/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications. (4 months ago)
@@ -33,8 +33,8 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
-- [francknouama/go-starter](https://github.com/francknouama/go-starter) - Stop fighting boilerplate. Generate complete, production-ready Go projects that compile immediately and follow best practices. (1 day ago)
-- [DataliftHQ/admiral-community](https://github.com/DataliftHQ/admiral-community) - Community hub for Admiral - Feature requests, bug reports, discussions, and public roadmap (3 weeks ago)
+- [francknouama/go-starter](https://github.com/francknouama/go-starter) - Stop fighting boilerplate. Generate complete, production-ready Go projects that compile immediately and follow best practices. (2 days ago)
+- [DataliftHQ/admiral-community](https://github.com/DataliftHQ/admiral-community) - Community hub for Admiral - Feature requests, bug reports, discussions, and public roadmap (4 weeks ago)
 - [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) - Claude Code Comprehensive Guide (1 month ago)
 - [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) -  (1 month ago)
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (1 month ago)
