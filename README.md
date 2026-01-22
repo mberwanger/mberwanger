@@ -34,7 +34,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
-- [coleam00/habit-tracker](https://github.com/coleam00/habit-tracker) - Habit Tracker for the AI Coding Workshop (1 week ago)
+- [coleam00/habit-tracker](https://github.com/coleam00/habit-tracker) - Habit Tracker for the AI Coding Workshop (2 weeks ago)
 - [DataliftHQ/admiral-ts](https://github.com/DataliftHQ/admiral-ts) - TypeScript client library for the Admiral API (2 weeks ago)
 - [DataliftHQ/admiral-openapi](https://github.com/DataliftHQ/admiral-openapi) - OpenAPI specifications for the Admiral API (2 weeks ago)
 - [francknouama/go-starter](https://github.com/francknouama/go-starter) - Stop fighting boilerplate. Generate complete, production-ready Go projects that compile immediately and follow best practices. (2 weeks ago)
