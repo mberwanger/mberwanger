@@ -13,24 +13,18 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 #### 🌱 My latest projects
 
 - [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering
-- [mberwanger/admiral-controller](https://github.com/mberwanger/admiral-controller) - Kubernetes controller for multi-cluster orchestration and synchronization.
-- [mberwanger/admiral-helm](https://github.com/mberwanger/admiral-helm) - Official helm charts for Admiral project
-- [mberwanger/admiral](https://github.com/mberwanger/admiral) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications.
-- [mberwanger/demo-simple-app](https://github.com/mberwanger/demo-simple-app) - Simple go web application
 
 #### 🔭 Latest releases I've contributed to
 
 - [DataliftHQ/admiral-go](https://github.com/DataliftHQ/admiral-go) ([v1.0.0](https://github.com/DataliftHQ/admiral-go/releases/tag/v1.0.0), 2 weeks ago) - Go client library for the Admiral API
-- [mberwanger/admiral](https://github.com/mberwanger/admiral) ([v0.1.0](https://github.com/mberwanger/admiral/releases/tag/v0.1.0), 5 months ago) - Platform Orchestrator designed to empower developers in accelerating the development, deployment, and seamless management of their applications.
-- [mberwanger/admiral-helm](https://github.com/mberwanger/admiral-helm) ([admiral-worker-0.1.0](https://github.com/mberwanger/admiral-helm/releases/tag/admiral-worker-0.1.0), 5 months ago) - Official helm charts for Admiral project
 
 #### 🔨 Latest Pull Requests I published
 
 - [feat: add claude, gemini and opencode utils](https://github.com/mberwanger/dockerfiles/pull/3) on [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) (2 months ago)
-- [fix: issue with scheduled build](https://github.com/mberwanger/dockerfiles/pull/2) on [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) (2 months ago)
-- [fix: remove authn token kind trigger](https://github.com/mberwanger/admiral/pull/178) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (5 months ago)
-- [fix: code scanning findings](https://github.com/mberwanger/admiral/pull/177) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (5 months ago)
-- [feat: add codeowners](https://github.com/mberwanger/admiral/pull/176) on [mberwanger/admiral](https://github.com/mberwanger/admiral) (5 months ago)
+- [fix: issue with scheduled build](https://github.com/mberwanger/dockerfiles/pull/2) on [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) (3 months ago)
+- [Invalid PR ](https://github.com/GoogleCloudPlatform/govanityurls/pull/54) on [GoogleCloudPlatform/govanityurls](https://github.com/GoogleCloudPlatform/govanityurls) (1 year ago)
+- [Invalid PR](https://github.com/GoogleCloudPlatform/govanityurls/pull/53) on [GoogleCloudPlatform/govanityurls](https://github.com/GoogleCloudPlatform/govanityurls) (1 year ago)
+- [Automate components updates](https://github.com/fluxcd/flux2/pull/177) on [fluxcd/flux2](https://github.com/fluxcd/flux2) (5 years ago)
 
 #### ⭐ Recent Stars
 
