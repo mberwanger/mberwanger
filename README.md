@@ -4,8 +4,8 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 👷 Check out what I'm currently working on
 
-- [DataliftHQ/admiral-openapi](https://github.com/DataliftHQ/admiral-openapi) - OpenAPI specifications for the Admiral API (2 weeks ago)
 - [DataliftHQ/admiral-go](https://github.com/DataliftHQ/admiral-go) - Go client library for the Admiral API (2 weeks ago)
+- [DataliftHQ/admiral-openapi](https://github.com/DataliftHQ/admiral-openapi) - OpenAPI specifications for the Admiral API (2 weeks ago)
 - [DataliftHQ/admiral-ts](https://github.com/DataliftHQ/admiral-ts) - TypeScript client library for the Admiral API (2 weeks ago)
 - [DataliftHQ/admiral-action](https://github.com/DataliftHQ/admiral-action) - GitHub Action for Admiral (1 month ago)
 - [DataliftHQ/admiral-community](https://github.com/DataliftHQ/admiral-community) - Community hub for Admiral - Feature requests, bug reports, discussions, and public roadmap (1 month ago)
@@ -31,7 +31,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [coleam00/habit-tracker](https://github.com/coleam00/habit-tracker) - Habit Tracker for the AI Coding Workshop (2 weeks ago)
 - [DataliftHQ/admiral-ts](https://github.com/DataliftHQ/admiral-ts) - TypeScript client library for the Admiral API (2 weeks ago)
 - [DataliftHQ/admiral-openapi](https://github.com/DataliftHQ/admiral-openapi) - OpenAPI specifications for the Admiral API (2 weeks ago)
-- [francknouama/go-starter](https://github.com/francknouama/go-starter) - Stop fighting boilerplate. Generate complete, production-ready Go projects that compile immediately and follow best practices. (2 weeks ago)
+- [francknouama/go-starter](https://github.com/francknouama/go-starter) - Stop fighting boilerplate. Generate complete, production-ready Go projects that compile immediately and follow best practices. (3 weeks ago)
 - [DataliftHQ/admiral-community](https://github.com/DataliftHQ/admiral-community) - Community hub for Admiral - Feature requests, bug reports, discussions, and public roadmap (1 month ago)
 - [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) - The Complete Claude Code CLI Guide - Live &amp; Auto-Updated Every 2 Days (2 months ago)
 - [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) -  (2 months ago)
