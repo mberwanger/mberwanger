@@ -8,7 +8,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [DataliftHQ/admiral-openapi](https://github.com/DataliftHQ/admiral-openapi) - OpenAPI specifications for the Admiral API (4 weeks ago)
 - [DataliftHQ/admiral-ts](https://github.com/DataliftHQ/admiral-ts) - TypeScript client library for the Admiral API (4 weeks ago)
 - [DataliftHQ/admiral-action](https://github.com/DataliftHQ/admiral-action) - GitHub Action for Admiral (1 month ago)
-- [DataliftHQ/admiral-community](https://github.com/DataliftHQ/admiral-community) - Community hub for Admiral - Feature requests, bug reports, discussions, and public roadmap (1 month ago)
+- [DataliftHQ/admiral-community](https://github.com/DataliftHQ/admiral-community) - Community hub for Admiral - Feature requests, bug reports, discussions, and public roadmap (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -16,8 +16,8 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 🔭 Latest releases I've contributed to
 
-- [DataliftHQ/admiral-ts](https://github.com/DataliftHQ/admiral-ts) ([v1.2.1](https://github.com/DataliftHQ/admiral-ts/releases/tag/v1.2.1), 2 days ago) - TypeScript client library for the Admiral API
-- [DataliftHQ/admiral-go](https://github.com/DataliftHQ/admiral-go) ([v1.1.1](https://github.com/DataliftHQ/admiral-go/releases/tag/v1.1.1), 6 days ago) - Go client library for the Admiral API
+- [DataliftHQ/admiral-ts](https://github.com/DataliftHQ/admiral-ts) ([v1.4.0](https://github.com/DataliftHQ/admiral-ts/releases/tag/v1.4.0), 1 day ago) - TypeScript client library for the Admiral API
+- [DataliftHQ/admiral-go](https://github.com/DataliftHQ/admiral-go) ([v1.1.1](https://github.com/DataliftHQ/admiral-go/releases/tag/v1.1.1), 1 week ago) - Go client library for the Admiral API
 
 #### 🔨 Latest Pull Requests I published
 
