@@ -16,8 +16,8 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 🔭 Latest releases I've contributed to
 
-- [DataliftHQ/admiral-ts](https://github.com/DataliftHQ/admiral-ts) ([v1.5.3](https://github.com/DataliftHQ/admiral-ts/releases/tag/v1.5.3), 2 days ago) - TypeScript client library for the Admiral API
-- [DataliftHQ/admiral-go](https://github.com/DataliftHQ/admiral-go) ([v1.2.0](https://github.com/DataliftHQ/admiral-go/releases/tag/v1.2.0), 2 days ago) - Go client library for the Admiral API
+- [DataliftHQ/admiral-ts](https://github.com/DataliftHQ/admiral-ts) ([v1.5.3](https://github.com/DataliftHQ/admiral-ts/releases/tag/v1.5.3), 3 days ago) - TypeScript client library for the Admiral API
+- [DataliftHQ/admiral-go](https://github.com/DataliftHQ/admiral-go) ([v1.2.0](https://github.com/DataliftHQ/admiral-go/releases/tag/v1.2.0), 3 days ago) - Go client library for the Admiral API
 
 #### 🔨 Latest Pull Requests I published
 
