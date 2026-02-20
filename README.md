@@ -4,9 +4,9 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 👷 Check out what I'm currently working on
 
-- [DataliftHQ/admiral-cli](https://github.com/DataliftHQ/admiral-cli) - Command-line interface for the Admiral platform orchestrator (4 days ago)
-- [DataliftHQ/scoop-bucket](https://github.com/DataliftHQ/scoop-bucket) - Scoop bucket for Datalift binaries (4 days ago)
-- [DataliftHQ/homebrew-tap](https://github.com/DataliftHQ/homebrew-tap) - Homebrew Tap of Datalift products and tools (5 days ago)
+- [DataliftHQ/admiral-cli](https://github.com/DataliftHQ/admiral-cli) - Command-line interface for the Admiral platform orchestrator (5 days ago)
+- [DataliftHQ/scoop-bucket](https://github.com/DataliftHQ/scoop-bucket) - Scoop bucket for Datalift binaries (5 days ago)
+- [DataliftHQ/homebrew-tap](https://github.com/DataliftHQ/homebrew-tap) - Homebrew Tap of Datalift products and tools (6 days ago)
 - [DataliftHQ/admiral-openapi](https://github.com/DataliftHQ/admiral-openapi) - OpenAPI specifications for the Admiral API (1 month ago)
 - [DataliftHQ/admiral-go](https://github.com/DataliftHQ/admiral-go) - Go client library for the Admiral API (1 month ago)
 
@@ -16,9 +16,9 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 🔭 Latest releases I've contributed to
 
-- [DataliftHQ/admiral-ts](https://github.com/DataliftHQ/admiral-ts) ([v1.5.8](https://github.com/DataliftHQ/admiral-ts/releases/tag/v1.5.8), 1 day ago) - TypeScript client library for the Admiral API
-- [DataliftHQ/admiral-go](https://github.com/DataliftHQ/admiral-go) ([v1.2.3](https://github.com/DataliftHQ/admiral-go/releases/tag/v1.2.3), 1 day ago) - Go client library for the Admiral API
-- [DataliftHQ/admiral-cli](https://github.com/DataliftHQ/admiral-cli) ([v0.0.1](https://github.com/DataliftHQ/admiral-cli/releases/tag/v0.0.1), 4 days ago) - Command-line interface for the Admiral platform orchestrator
+- [DataliftHQ/admiral-ts](https://github.com/DataliftHQ/admiral-ts) ([v1.5.9](https://github.com/DataliftHQ/admiral-ts/releases/tag/v1.5.9), 1 day ago) - TypeScript client library for the Admiral API
+- [DataliftHQ/admiral-go](https://github.com/DataliftHQ/admiral-go) ([v1.2.4](https://github.com/DataliftHQ/admiral-go/releases/tag/v1.2.4), 1 day ago) - Go client library for the Admiral API
+- [DataliftHQ/admiral-cli](https://github.com/DataliftHQ/admiral-cli) ([v0.0.1](https://github.com/DataliftHQ/admiral-cli/releases/tag/v0.0.1), 5 days ago) - Command-line interface for the Admiral platform orchestrator
 
 #### 🔨 Latest Pull Requests I published
 
