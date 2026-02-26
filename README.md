@@ -16,13 +16,13 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 🔭 Latest releases I've contributed to
 
-- [DataliftHQ/admiral-ts](https://github.com/DataliftHQ/admiral-ts) ([v1.5.10](https://github.com/DataliftHQ/admiral-ts/releases/tag/v1.5.10), 5 days ago) - TypeScript client library for the Admiral API
-- [DataliftHQ/admiral-go](https://github.com/DataliftHQ/admiral-go) ([v1.2.5](https://github.com/DataliftHQ/admiral-go/releases/tag/v1.2.5), 5 days ago) - Go client library for the Admiral API
+- [DataliftHQ/admiral-ts](https://github.com/DataliftHQ/admiral-ts) ([v1.5.11](https://github.com/DataliftHQ/admiral-ts/releases/tag/v1.5.11), 1 day ago) - TypeScript client library for the Admiral API
+- [DataliftHQ/admiral-go](https://github.com/DataliftHQ/admiral-go) ([v1.2.6](https://github.com/DataliftHQ/admiral-go/releases/tag/v1.2.6), 1 day ago) - Go client library for the Admiral API
 - [DataliftHQ/admiral-cli](https://github.com/DataliftHQ/admiral-cli) ([v0.0.1](https://github.com/DataliftHQ/admiral-cli/releases/tag/v0.0.1), 1 week ago) - Command-line interface for the Admiral platform orchestrator
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: add claude, gemini and opencode utils](https://github.com/mberwanger/dockerfiles/pull/3) on [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) (3 months ago)
+- [feat: add claude, gemini and opencode utils](https://github.com/mberwanger/dockerfiles/pull/3) on [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) (4 months ago)
 - [fix: issue with scheduled build](https://github.com/mberwanger/dockerfiles/pull/2) on [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) (4 months ago)
 - [Invalid PR ](https://github.com/GoogleCloudPlatform/govanityurls/pull/54) on [GoogleCloudPlatform/govanityurls](https://github.com/GoogleCloudPlatform/govanityurls) (1 year ago)
 - [Invalid PR](https://github.com/GoogleCloudPlatform/govanityurls/pull/53) on [GoogleCloudPlatform/govanityurls](https://github.com/GoogleCloudPlatform/govanityurls) (1 year ago)
@@ -30,6 +30,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark. (1 day ago)
 - [coleam00/habit-tracker](https://github.com/coleam00/habit-tracker) - Habit Tracker for the AI Coding Workshop (1 month ago)
 - [DataliftHQ/admiral-ts](https://github.com/DataliftHQ/admiral-ts) - TypeScript client library for the Admiral API (1 month ago)
 - [DataliftHQ/admiral-openapi](https://github.com/DataliftHQ/admiral-openapi) - OpenAPI specifications for the Admiral API (1 month ago)
@@ -39,7 +40,6 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 - [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) - Master Claude Code Hooks (3 months ago)
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (3 months ago)
 - [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents (3 months ago)
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - AI Trading OS: Multi-AI, multi-exchange trading infrastructure with Strategy Studio. (3 months ago)
 
 #### 💬 Feedback
 
