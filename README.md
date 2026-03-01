@@ -4,9 +4,9 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 👷 Check out what I'm currently working on
 
-- [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (2 days ago)
-- [DataliftHQ/admiral-cli](https://github.com/DataliftHQ/admiral-cli) - Command-line interface for the Admiral platform orchestrator (1 week ago)
-- [DataliftHQ/scoop-bucket](https://github.com/DataliftHQ/scoop-bucket) - Scoop bucket for Datalift binaries (1 week ago)
+- [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (3 days ago)
+- [DataliftHQ/admiral-cli](https://github.com/DataliftHQ/admiral-cli) - Command-line interface for the Admiral platform orchestrator (2 weeks ago)
+- [DataliftHQ/scoop-bucket](https://github.com/DataliftHQ/scoop-bucket) - Scoop bucket for Datalift binaries (2 weeks ago)
 - [DataliftHQ/homebrew-tap](https://github.com/DataliftHQ/homebrew-tap) - Homebrew Tap of Datalift products and tools (2 weeks ago)
 - [DataliftHQ/admiral-openapi](https://github.com/DataliftHQ/admiral-openapi) - OpenAPI specifications for the Admiral API (1 month ago)
 
@@ -16,9 +16,9 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 🔭 Latest releases I've contributed to
 
-- [DataliftHQ/admiral-go](https://github.com/DataliftHQ/admiral-go) ([v1.2.8](https://github.com/DataliftHQ/admiral-go/releases/tag/v1.2.8), 1 day ago) - Go client library for the Admiral API
-- [DataliftHQ/admiral-ts](https://github.com/DataliftHQ/admiral-ts) ([v1.5.12](https://github.com/DataliftHQ/admiral-ts/releases/tag/v1.5.12), 2 days ago) - TypeScript client library for the Admiral API
-- [DataliftHQ/admiral-cli](https://github.com/DataliftHQ/admiral-cli) ([v0.0.1](https://github.com/DataliftHQ/admiral-cli/releases/tag/v0.0.1), 1 week ago) - Command-line interface for the Admiral platform orchestrator
+- [DataliftHQ/admiral-ts](https://github.com/DataliftHQ/admiral-ts) ([v1.5.15](https://github.com/DataliftHQ/admiral-ts/releases/tag/v1.5.15), today) - TypeScript client library for the Admiral API
+- [DataliftHQ/admiral-go](https://github.com/DataliftHQ/admiral-go) ([v1.2.11](https://github.com/DataliftHQ/admiral-go/releases/tag/v1.2.11), today) - Go client library for the Admiral API
+- [DataliftHQ/admiral-cli](https://github.com/DataliftHQ/admiral-cli) ([v0.0.1](https://github.com/DataliftHQ/admiral-cli/releases/tag/v0.0.1), 2 weeks ago) - Command-line interface for the Admiral platform orchestrator
 
 #### 🔨 Latest Pull Requests I published
 
@@ -30,7 +30,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark. (3 days ago)
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark. (4 days ago)
 - [coleam00/habit-tracker](https://github.com/coleam00/habit-tracker) - Habit Tracker for the AI Coding Workshop (1 month ago)
 - [DataliftHQ/admiral-ts](https://github.com/DataliftHQ/admiral-ts) - TypeScript client library for the Admiral API (1 month ago)
 - [DataliftHQ/admiral-openapi](https://github.com/DataliftHQ/admiral-openapi) - OpenAPI specifications for the Admiral API (1 month ago)
