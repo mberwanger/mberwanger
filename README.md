@@ -16,13 +16,13 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 🔭 Latest releases I've contributed to
 
-- [DataliftHQ/admiral-ts](https://github.com/DataliftHQ/admiral-ts) ([v1.5.15](https://github.com/DataliftHQ/admiral-ts/releases/tag/v1.5.15), 4 days ago) - TypeScript client library for the Admiral API
-- [DataliftHQ/admiral-go](https://github.com/DataliftHQ/admiral-go) ([v1.2.11](https://github.com/DataliftHQ/admiral-go/releases/tag/v1.2.11), 4 days ago) - Go client library for the Admiral API
+- [DataliftHQ/admiral-ts](https://github.com/DataliftHQ/admiral-ts) ([v1.5.15](https://github.com/DataliftHQ/admiral-ts/releases/tag/v1.5.15), 5 days ago) - TypeScript client library for the Admiral API
+- [DataliftHQ/admiral-go](https://github.com/DataliftHQ/admiral-go) ([v1.2.11](https://github.com/DataliftHQ/admiral-go/releases/tag/v1.2.11), 5 days ago) - Go client library for the Admiral API
 - [DataliftHQ/admiral-cli](https://github.com/DataliftHQ/admiral-cli) ([v0.0.1](https://github.com/DataliftHQ/admiral-cli/releases/tag/v0.0.1), 2 weeks ago) - Command-line interface for the Admiral platform orchestrator
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(cmd): wire env commands to gRPC, add resolvers, remove use command](https://github.com/DataliftHQ/admiral-cli/pull/2) on [DataliftHQ/admiral-cli](https://github.com/DataliftHQ/admiral-cli) (3 days ago)
+- [feat(cmd): wire env commands to gRPC, add resolvers, remove use command](https://github.com/DataliftHQ/admiral-cli/pull/2) on [DataliftHQ/admiral-cli](https://github.com/DataliftHQ/admiral-cli) (4 days ago)
 - [feat: add claude, gemini and opencode utils](https://github.com/mberwanger/dockerfiles/pull/3) on [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) (4 months ago)
 - [fix: issue with scheduled build](https://github.com/mberwanger/dockerfiles/pull/2) on [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) (4 months ago)
 - [Invalid PR ](https://github.com/GoogleCloudPlatform/govanityurls/pull/54) on [GoogleCloudPlatform/govanityurls](https://github.com/GoogleCloudPlatform/govanityurls) (1 year ago)
@@ -30,7 +30,7 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### ⭐ Recent Stars
 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark. (1 week ago)
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark. (1 week ago)
 - [coleam00/habit-tracker](https://github.com/coleam00/habit-tracker) - Habit Tracker for the AI Coding Workshop (1 month ago)
 - [DataliftHQ/admiral-ts](https://github.com/DataliftHQ/admiral-ts) - TypeScript client library for the Admiral API (1 month ago)
 - [DataliftHQ/admiral-openapi](https://github.com/DataliftHQ/admiral-openapi) - OpenAPI specifications for the Admiral API (1 month ago)
