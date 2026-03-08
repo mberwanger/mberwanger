@@ -5,8 +5,8 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 #### 👷 Check out what I'm currently working on
 
 - [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (1 week ago)
-- [DataliftHQ/admiral-cli](https://github.com/DataliftHQ/admiral-cli) - Command-line interface for the Admiral platform orchestrator (2 weeks ago)
-- [DataliftHQ/scoop-bucket](https://github.com/DataliftHQ/scoop-bucket) - Scoop bucket for Datalift binaries (2 weeks ago)
+- [DataliftHQ/admiral-cli](https://github.com/DataliftHQ/admiral-cli) - Command-line interface for the Admiral platform orchestrator (3 weeks ago)
+- [DataliftHQ/scoop-bucket](https://github.com/DataliftHQ/scoop-bucket) - Scoop bucket for Datalift binaries (3 weeks ago)
 - [DataliftHQ/homebrew-tap](https://github.com/DataliftHQ/homebrew-tap) - Homebrew Tap of Datalift products and tools (3 weeks ago)
 - [DataliftHQ/admiral-openapi](https://github.com/DataliftHQ/admiral-openapi) - OpenAPI specifications for the Admiral API (2 months ago)
 
@@ -16,13 +16,13 @@ I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jerse
 
 #### 🔭 Latest releases I've contributed to
 
-- [DataliftHQ/admiral-ts](https://github.com/DataliftHQ/admiral-ts) ([v1.5.15](https://github.com/DataliftHQ/admiral-ts/releases/tag/v1.5.15), 6 days ago) - TypeScript client library for the Admiral API
-- [DataliftHQ/admiral-go](https://github.com/DataliftHQ/admiral-go) ([v1.2.11](https://github.com/DataliftHQ/admiral-go/releases/tag/v1.2.11), 6 days ago) - Go client library for the Admiral API
-- [DataliftHQ/admiral-cli](https://github.com/DataliftHQ/admiral-cli) ([v0.0.1](https://github.com/DataliftHQ/admiral-cli/releases/tag/v0.0.1), 2 weeks ago) - Command-line interface for the Admiral platform orchestrator
+- [DataliftHQ/admiral-ts](https://github.com/DataliftHQ/admiral-ts) ([v1.5.15](https://github.com/DataliftHQ/admiral-ts/releases/tag/v1.5.15), 1 week ago) - TypeScript client library for the Admiral API
+- [DataliftHQ/admiral-go](https://github.com/DataliftHQ/admiral-go) ([v1.2.11](https://github.com/DataliftHQ/admiral-go/releases/tag/v1.2.11), 1 week ago) - Go client library for the Admiral API
+- [DataliftHQ/admiral-cli](https://github.com/DataliftHQ/admiral-cli) ([v0.0.1](https://github.com/DataliftHQ/admiral-cli/releases/tag/v0.0.1), 3 weeks ago) - Command-line interface for the Admiral platform orchestrator
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(cmd): wire env commands to gRPC, add resolvers, remove use command](https://github.com/DataliftHQ/admiral-cli/pull/2) on [DataliftHQ/admiral-cli](https://github.com/DataliftHQ/admiral-cli) (5 days ago)
+- [feat(cmd): wire env commands to gRPC, add resolvers, remove use command](https://github.com/DataliftHQ/admiral-cli/pull/2) on [DataliftHQ/admiral-cli](https://github.com/DataliftHQ/admiral-cli) (6 days ago)
 - [feat: add claude, gemini and opencode utils](https://github.com/mberwanger/dockerfiles/pull/3) on [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) (4 months ago)
 - [fix: issue with scheduled build](https://github.com/mberwanger/dockerfiles/pull/2) on [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) (4 months ago)
 - [Invalid PR ](https://github.com/GoogleCloudPlatform/govanityurls/pull/54) on [GoogleCloudPlatform/govanityurls](https://github.com/GoogleCloudPlatform/govanityurls) (1 year ago)
