@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Martin, a Staff Site Reliability and Platform Engineer chilling in New Jersey, USA. When I'm not slaying tech dragons, you might catch me dreaming up startup shenanigans, perfecting the delicate dance of coffee brewing, and occasionally dabbling in the art of hacking (the legal kind, promise!). 
+I'm Martin, a platform engineer who's been building infrastructure at companies large and small for a long time -- from Amazon down to early-stage startups. I care about security, clean architecture, and systems that scale without drama. GIAC certified. Occasionally writing about platform engineering and AI-assisted development.
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
