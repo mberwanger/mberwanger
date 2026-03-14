@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Martin. I build the infrastructure layer that lets product teams move fast without breaking things they can't see. My background spans large-scale cloud operations at Amazon and greenfield architecture at early-stage startups, usually with a strong bias toward IaC, zero trust, and keeping the blast radius small. GIAC certified. Occasionally writing about platform engineering and working with AI in real codebases.
+I'm Martin, a platform engineer who's been building infrastructure at companies large and small for a long time -- from Amazon down to early-stage startups. I care about security, clean architecture, and systems that scale without drama. GIAC certified. Occasionally writing about platform engineering and AI-assisted development.
 
 #### 👷 Check out what I'm currently working on
 
@@ -36,6 +36,6 @@ If you use one of my projects, I'd love to hear from you! Don't be shy and let m
 #### 📫 How to reach me
 
 - LinkedIn: https://www.linkedin.com/in/mberwanger/
-- Twitter: https://x.com/MartinBerwanger
+- Twitter: https://twitter.com/MartinBerwanger
 - Blog: https://mberwanger.com
 - Email: mberwanger@protonmail.com
