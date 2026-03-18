@@ -4,13 +4,15 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 
 #### 👷 Check out what I'm currently working on
 
-- [mberwanger/admiral-protos](https://github.com/mberwanger/admiral-protos) - Monorepo for data (Protocol Buffers) and behavioral (gRPC) contracts between services (1 day ago)
-- [mberwanger/admiral-openapi](https://github.com/mberwanger/admiral-openapi) - OpenAPI specifications for the Admiral API (4 days ago)
-- [mberwanger/admiral-go](https://github.com/mberwanger/admiral-go) - Go client library for the Admiral API (4 days ago)
+- [mberwanger/terraform-provider-admiral](https://github.com/mberwanger/terraform-provider-admiral) - Admiral Terraform Provider (1 day ago)
+- [mberwanger/admiral-protos](https://github.com/mberwanger/admiral-protos) - Monorepo for data (Protocol Buffers) and behavioral (gRPC) contracts between services (2 days ago)
+- [mberwanger/admiral-go](https://github.com/mberwanger/admiral-go) - Go client library for the Admiral API (5 days ago)
+- [mberwanger/admiral-openapi](https://github.com/mberwanger/admiral-openapi) - OpenAPI specifications for the Admiral API (5 days ago)
 - [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [mberwanger/terraform-provider-admiral](https://github.com/mberwanger/terraform-provider-admiral) - Admiral Terraform Provider
 - [mberwanger/admiral-openapi](https://github.com/mberwanger/admiral-openapi) - OpenAPI specifications for the Admiral API
 - [mberwanger/admiral-go](https://github.com/mberwanger/admiral-go) - Go client library for the Admiral API
 - [mberwanger/admiral-protos](https://github.com/mberwanger/admiral-protos) - Monorepo for data (Protocol Buffers) and behavioral (gRPC) contracts between services
@@ -18,7 +20,7 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 
 #### ⭐ Recent Stars
 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. (2 weeks ago)
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. (3 weeks ago)
 - [coleam00/habit-tracker](https://github.com/coleam00/habit-tracker) - Habit Tracker for the AI Coding Workshop (2 months ago)
 - [francknouama/go-starter](https://github.com/francknouama/go-starter) - Stop fighting boilerplate. Generate complete, production-ready Go projects that compile immediately and follow best practices. (2 months ago)
 - [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) - The Complete Claude Code CLI Guide - Live &amp; Auto-Updated Every 2 Days (4 months ago)
