@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mberwanger-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mberwanger/)
 [![DEV.to](https://img.shields.io/badge/DEV.to-mberwanger-0A0A0A?style=flat&logo=dev.to)](https://dev.to/mberwanger)
-[![Twitter](https://img.shields.io/badge/Twitter-MartinBerwanger-1DA1F2?style=flat&logo=twitter)](https://twitter.com/MartinBerwanger)
+[![X](https://img.shields.io/badge/X-MartinBerwanger-000000?style=flat&logo=x)](https://twitter.com/MartinBerwanger)
 
 I'm Martin. I build the infrastructure layer that lets product teams move fast without breaking things they can't see. My background spans large-scale cloud operations at Amazon and greenfield architecture at early-stage startups, usually with a strong bias toward IaC, zero trust, and keeping the blast radius small. GIAC certified. Occasionally writing about platform engineering and working with AI in real codebases.
 
@@ -10,17 +10,22 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+#### 📝 Latest Blog Posts
+
+- [Unified Authentication for OAuth2 and API Keys via Edge Token Normalization](https://dev.to/mberwanger/unified-authentication-for-oauth2-and-api-keys-via-edge-token-normalization-43cl) (1 week ago)
+- [Code Review Is Where the Value Is Now](https://dev.to/mberwanger/the-next-frontier-isnt-writing-code-its-reviewing-it-2d1k) (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
 - [mberwanger/terraform-provider-admiral](https://github.com/mberwanger/terraform-provider-admiral) - Admiral Terraform Provider (1 week ago)
 - [mberwanger/admiral-protos](https://github.com/mberwanger/admiral-protos) - Monorepo for data (Protocol Buffers) and behavioral (gRPC) contracts between services (1 week ago)
-- [mberwanger/admiral-go](https://github.com/mberwanger/admiral-go) - Go client library for the Admiral API (1 week ago)
 - [mberwanger/admiral-openapi](https://github.com/mberwanger/admiral-openapi) - OpenAPI specifications for the Admiral API (1 week ago)
+- [mberwanger/admiral-go](https://github.com/mberwanger/admiral-go) - Go client library for the Admiral API (1 week ago)
 - [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -30,11 +35,6 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 - [mberwanger/admiral-go](https://github.com/mberwanger/admiral-go) - Go client library for the Admiral API
 - [mberwanger/admiral-protos](https://github.com/mberwanger/admiral-protos) - Monorepo for data (Protocol Buffers) and behavioral (gRPC) contracts between services
 - [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering
-
-#### 📝 Latest Blog Posts
-
-- [Unified Authentication for OAuth2 and API Keys via Edge Token Normalization](https://dev.to/mberwanger/unified-authentication-for-oauth2-and-api-keys-via-edge-token-normalization-43cl) (1 week ago)
-- [Code Review Is Where the Value Is Now](https://dev.to/mberwanger/the-next-frontier-isnt-writing-code-its-reviewing-it-2d1k) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
@@ -56,4 +56,4 @@ If you use one of my projects, I'd love to hear from you! Don't be shy and let m
 - LinkedIn: https://www.linkedin.com/in/mberwanger/
 - Twitter: https://twitter.com/MartinBerwanger
 - Blog: https://dev.to/mberwanger
-- Email: [mberwanger@protonmail.com](mailto:mberwanger@protonmail.com)
+- Email: mberwanger@protonmail.com
