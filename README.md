@@ -18,7 +18,7 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 #### 📝 Latest Blog Posts
 
 - [Unified Authentication for OAuth2 and API Keys via Edge Token Normalization](https://dev.to/mberwanger/unified-authentication-for-oauth2-and-api-keys-via-edge-token-normalization-43cl) (1 week ago)
-- [Code Review Is Where the Value Is Now](https://dev.to/mberwanger/the-next-frontier-isnt-writing-code-its-reviewing-it-2d1k) (2 weeks ago)
+- [Code Review Is Where the Value Is Now](https://dev.to/mberwanger/the-next-frontier-isnt-writing-code-its-reviewing-it-2d1k) (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
@@ -26,7 +26,7 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 - [mberwanger/admiral-protos](https://github.com/mberwanger/admiral-protos) - Monorepo for data (Protocol Buffers) and behavioral (gRPC) contracts between services (1 week ago)
 - [mberwanger/admiral-openapi](https://github.com/mberwanger/admiral-openapi) - OpenAPI specifications for the Admiral API (1 week ago)
 - [mberwanger/admiral-go](https://github.com/mberwanger/admiral-go) - Go client library for the Admiral API (1 week ago)
-- [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (3 weeks ago)
+- [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (4 weeks ago)
 
 #### 🌱 My latest projects
 
