@@ -17,22 +17,19 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 
 #### 📝 Latest Blog Posts
 
-- [Unified Authentication for OAuth2 and API Keys via Edge Token Normalization](https://dev.to/mberwanger/unified-authentication-for-oauth2-and-api-keys-via-edge-token-normalization-43cl) (1 week ago)
+- [Unified Authentication for OAuth2 and API Keys via Edge Token Normalization](https://dev.to/mberwanger/unified-authentication-for-oauth2-and-api-keys-via-edge-token-normalization-43cl) (2 weeks ago)
 - [Code Review Is Where the Value Is Now](https://dev.to/mberwanger/the-next-frontier-isnt-writing-code-its-reviewing-it-2d1k) (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [admiral-io/admiral-openapi](https://github.com/admiral-io/admiral-openapi) - OpenAPI specifications for the Admiral API (1 day ago)
-- [admiral-io/admiral-sdk-go](https://github.com/admiral-io/admiral-sdk-go) - Go client library for the Admiral API (1 day ago)
-- [mberwanger/terraform-provider-admiral](https://github.com/mberwanger/terraform-provider-admiral) - Admiral Terraform Provider (1 week ago)
-- [mberwanger/admiral-protos](https://github.com/mberwanger/admiral-protos) - Monorepo for data (Protocol Buffers) and behavioral (gRPC) contracts between services (1 week ago)
-- [mberwanger/admiral-openapi](https://github.com/mberwanger/admiral-openapi) - OpenAPI specifications for the Admiral API (2 weeks ago)
+- [admiral-io/terraform-provider-admiral](https://github.com/admiral-io/terraform-provider-admiral) - Terraform provider for Admiral (1 day ago)
+- [admiral-io/admiral-openapi](https://github.com/admiral-io/admiral-openapi) - OpenAPI specifications for the Admiral API (2 days ago)
+- [admiral-io/admiral-sdk-go](https://github.com/admiral-io/admiral-sdk-go) - Go client library for the Admiral API (2 days ago)
+- [mberwanger/admiral-protos](https://github.com/mberwanger/admiral-protos) - Monorepo for data (Protocol Buffers) and behavioral (gRPC) contracts between services (2 weeks ago)
+- [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (1 month ago)
 
 #### 🌱 My latest projects
 
-- [mberwanger/terraform-provider-admiral](https://github.com/mberwanger/terraform-provider-admiral) - Admiral Terraform Provider
-- [mberwanger/admiral-openapi](https://github.com/mberwanger/admiral-openapi) - OpenAPI specifications for the Admiral API
-- [mberwanger/admiral-go](https://github.com/mberwanger/admiral-go) - Go client library for the Admiral API
 - [mberwanger/admiral-protos](https://github.com/mberwanger/admiral-protos) - Monorepo for data (Protocol Buffers) and behavioral (gRPC) contracts between services
 - [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering
 
@@ -46,7 +43,7 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (4 months ago)
 - [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents (4 months ago)
 - [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys. (4 months ago)
-- [andrefigueira/.context](https://github.com/andrefigueira/.context) - A Git-native, AI-optimized documentation system that turns your repo into a living knowledge base.  (4 months ago)
+- [andrefigueira/.context](https://github.com/andrefigueira/.context) - A Git-native, AI-optimized documentation system that turns your repo into a living knowledge base.  (5 months ago)
 - [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (5 months ago)
 
 #### 💬 Feedback
