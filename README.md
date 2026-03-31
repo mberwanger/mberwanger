@@ -23,10 +23,10 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 #### 👷 Check out what I'm currently working on
 
 - [admiral-io/terraform-provider-admiral](https://github.com/admiral-io/terraform-provider-admiral) - Terraform provider for Admiral (1 day ago)
-- [admiral-io/admiral-openapi](https://github.com/admiral-io/admiral-openapi) - OpenAPI specifications for the Admiral API (2 days ago)
-- [admiral-io/admiral-sdk-go](https://github.com/admiral-io/admiral-sdk-go) - Go client library for the Admiral API (2 days ago)
+- [admiral-io/admiral-helm](https://github.com/admiral-io/admiral-helm) - Official helm charts for Admiral (1 day ago)
+- [admiral-io/admiral-sdk-go](https://github.com/admiral-io/admiral-sdk-go) - Go client library for the Admiral API (3 days ago)
+- [admiral-io/admiral-openapi](https://github.com/admiral-io/admiral-openapi) - OpenAPI specifications for the Admiral API (3 days ago)
 - [mberwanger/admiral-protos](https://github.com/mberwanger/admiral-protos) - Monorepo for data (Protocol Buffers) and behavioral (gRPC) contracts between services (2 weeks ago)
-- [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -42,9 +42,9 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 - [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) - Master Claude Code Hooks (4 months ago)
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (4 months ago)
 - [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents (4 months ago)
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys. (4 months ago)
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys. (5 months ago)
 - [andrefigueira/.context](https://github.com/andrefigueira/.context) - A Git-native, AI-optimized documentation system that turns your repo into a living knowledge base.  (5 months ago)
-- [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (5 months ago)
+- [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (6 months ago)
 
 #### 💬 Feedback
 If you use one of my projects, I'd love to hear from you! Don't be shy and let me know what you liked and what needs being improved. Got an issue? Open a ticket, I don't bite and will try my best to help!
