@@ -22,11 +22,11 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 
 #### 👷 Check out what I'm currently working on
 
-- [admiral-io/admiral-helm](https://github.com/admiral-io/admiral-helm) - Official helm charts for Admiral (1 day ago)
-- [admiral-io/admiral](https://github.com/admiral-io/admiral) - Platform orchestrator for building, deploying, and managing applications at scale (2 days ago)
-- [admiral-io/scoop-bucket](https://github.com/admiral-io/scoop-bucket) - Scoop bucket for Admiral tools (2 days ago)
-- [admiral-io/admiral-cli](https://github.com/admiral-io/admiral-cli) - Command-line interface for the Admiral platform (2 days ago)
-- [admiral-io/homebrew-tap](https://github.com/admiral-io/homebrew-tap) - Homebrew tap for Admiral tools (2 days ago)
+- [admiral-io/terraform-provider-admiral](https://github.com/admiral-io/terraform-provider-admiral) - Terraform provider for Admiral (2 days ago)
+- [admiral-io/admiral-helm](https://github.com/admiral-io/admiral-helm) - Official helm charts for Admiral (2 days ago)
+- [admiral-io/admiral-site](https://github.com/admiral-io/admiral-site) - Admiral website (2 days ago)
+- [admiral-io/admiral](https://github.com/admiral-io/admiral) - Platform orchestrator for building, deploying, and managing applications at scale (3 days ago)
+- [admiral-io/admiral-cli](https://github.com/admiral-io/admiral-cli) - Command-line interface for the Admiral platform (3 days ago)
 
 #### 🌱 My latest projects
 
