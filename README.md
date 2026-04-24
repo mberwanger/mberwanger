@@ -22,11 +22,11 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 
 #### 👷 Check out what I'm currently working on
 
-- [admiral-io/admiral-infra-agent](https://github.com/admiral-io/admiral-infra-agent) - Connect infrastructure providers to the Admiral control plane (2 days ago)
-- [admiral-io/admiral-helm](https://github.com/admiral-io/admiral-helm) - Official helm charts for Admiral (2 days ago)
+- [admiral-io/admiral-infra-agent](https://github.com/admiral-io/admiral-infra-agent) - Connect infrastructure providers to the Admiral control plane (3 days ago)
+- [admiral-io/admiral-helm](https://github.com/admiral-io/admiral-helm) - Official helm charts for Admiral (3 days ago)
 - [mberwanger/terraform-test](https://github.com/mberwanger/terraform-test) (1 week ago)
-- [admiral-io/terraform-provider-admiral](https://github.com/admiral-io/terraform-provider-admiral) - Terraform provider for Admiral (1 week ago)
-- [admiral-io/admiral-site](https://github.com/admiral-io/admiral-site) - Admiral website (1 week ago)
+- [admiral-io/terraform-provider-admiral](https://github.com/admiral-io/terraform-provider-admiral) - Terraform provider for Admiral (2 weeks ago)
+- [admiral-io/admiral-site](https://github.com/admiral-io/admiral-site) - Admiral website (2 weeks ago)
 
 #### 🌱 My latest projects
 
