@@ -22,8 +22,8 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 
 #### 👷 Check out what I'm currently working on
 
-- [admiral-io/admiral-infra-agent](https://github.com/admiral-io/admiral-infra-agent) - Connect infrastructure providers to the Admiral control plane (4 days ago)
-- [admiral-io/admiral-helm](https://github.com/admiral-io/admiral-helm) - Official helm charts for Admiral (4 days ago)
+- [admiral-io/admiral-infra-agent](https://github.com/admiral-io/admiral-infra-agent) - Connect infrastructure providers to the Admiral control plane (5 days ago)
+- [admiral-io/admiral-helm](https://github.com/admiral-io/admiral-helm) - Official helm charts for Admiral (5 days ago)
 - [mberwanger/terraform-test](https://github.com/mberwanger/terraform-test) (1 week ago)
 - [admiral-io/terraform-provider-admiral](https://github.com/admiral-io/terraform-provider-admiral) - Terraform provider for Admiral (2 weeks ago)
 - [admiral-io/admiral-site](https://github.com/admiral-io/admiral-site) - Admiral website (2 weeks ago)
@@ -36,7 +36,7 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 
 #### ⭐ Recent Stars
 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. (1 month ago)
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. (2 months ago)
 - [coleam00/habit-tracker](https://github.com/coleam00/habit-tracker) - Habit Tracker for the AI Coding Workshop (3 months ago)
 - [francknouama/go-starter](https://github.com/francknouama/go-starter) - Stop fighting boilerplate. Generate complete, production-ready Go projects that compile immediately and follow best practices. (3 months ago)
 - [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) - The Complete Claude Code CLI Guide - Live &amp; Auto-Updated Every 2 Days (5 months ago)
