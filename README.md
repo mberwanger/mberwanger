@@ -18,12 +18,12 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 #### 📝 Latest Blog Posts
 
 - [Unified Authentication for OAuth2 and API Keys via Edge Token Normalization](https://dev.to/mberwanger/unified-authentication-for-oauth2-and-api-keys-via-edge-token-normalization-43cl) (1 month ago)
-- [Code Review Is Where the Value Is Now](https://dev.to/mberwanger/the-next-frontier-isnt-writing-code-its-reviewing-it-2d1k) (1 month ago)
+- [Code Review Is Where the Value Is Now](https://dev.to/mberwanger/the-next-frontier-isnt-writing-code-its-reviewing-it-2d1k) (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [admiral-io/admiral-helm](https://github.com/admiral-io/admiral-helm) - Official helm charts for Admiral (2 days ago)
-- [mberwanger/terraform-test](https://github.com/mberwanger/terraform-test) (6 days ago)
+- [admiral-io/admiral-helm](https://github.com/admiral-io/admiral-helm) - Official helm charts for Admiral (3 days ago)
+- [mberwanger/terraform-test](https://github.com/mberwanger/terraform-test) (1 week ago)
 - [admiral-io/admiral-infra-agent](https://github.com/admiral-io/admiral-infra-agent) - Connect infrastructure providers to the Admiral control plane (1 week ago)
 - [admiral-io/terraform-provider-admiral](https://github.com/admiral-io/terraform-provider-admiral) - Terraform provider for Admiral (3 weeks ago)
 - [admiral-io/admiral-site](https://github.com/admiral-io/admiral-site) - Admiral website (3 weeks ago)
@@ -38,7 +38,7 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. (2 months ago)
 - [coleam00/habit-tracker](https://github.com/coleam00/habit-tracker) - Habit Tracker for the AI Coding Workshop (3 months ago)
-- [francknouama/go-starter](https://github.com/francknouama/go-starter) - Stop fighting boilerplate. Generate complete, production-ready Go projects that compile immediately and follow best practices. (3 months ago)
+- [francknouama/go-starter](https://github.com/francknouama/go-starter) - Stop fighting boilerplate. Generate complete, production-ready Go projects that compile immediately and follow best practices. (4 months ago)
 - [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) - The Complete Claude Code CLI Guide - Live &amp; Auto-Updated Every 2 Days (5 months ago)
 - [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) - Master Claude Code Hooks (5 months ago)
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (5 months ago)
