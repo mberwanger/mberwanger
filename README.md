@@ -17,14 +17,14 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 
 #### 📝 Latest Blog Posts
 
-- [Unified Authentication for OAuth2 and API Keys via Edge Token Normalization](https://dev.to/mberwanger/unified-authentication-for-oauth2-and-api-keys-via-edge-token-normalization-43cl) (1 month ago)
+- [Unified Authentication for OAuth2 and API Keys via Edge Token Normalization](https://dev.to/mberwanger/unified-authentication-for-oauth2-and-api-keys-via-edge-token-normalization-43cl) (2 months ago)
 - [Code Review Is Where the Value Is Now](https://dev.to/mberwanger/the-next-frontier-isnt-writing-code-its-reviewing-it-2d1k) (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [admiral-io/admiral-helm](https://github.com/admiral-io/admiral-helm) - Official helm charts for Admiral (2 days ago)
-- [admiral-io/.github](https://github.com/admiral-io/.github) - Organization-wide GitHub Community Files (4 days ago)
-- [admiral-io/admiral-sdk-go](https://github.com/admiral-io/admiral-sdk-go) - Go client library for the Admiral API (5 days ago)
+- [admiral-io/admiral-helm](https://github.com/admiral-io/admiral-helm) - Official helm charts for Admiral (3 days ago)
+- [admiral-io/.github](https://github.com/admiral-io/.github) - Organization-wide GitHub Community Files (5 days ago)
+- [admiral-io/admiral-sdk-go](https://github.com/admiral-io/admiral-sdk-go) - Go client library for the Admiral API (6 days ago)
 - [mberwanger/terraform-test](https://github.com/mberwanger/terraform-test) (2 weeks ago)
 - [admiral-io/terraform-provider-admiral](https://github.com/admiral-io/terraform-provider-admiral) - Terraform provider for Admiral (1 month ago)
 
