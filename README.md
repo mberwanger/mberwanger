@@ -18,7 +18,7 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 #### 📝 Latest Blog Posts
 
 - [Unified Authentication for OAuth2 and API Keys via Edge Token Normalization](https://dev.to/mberwanger/unified-authentication-for-oauth2-and-api-keys-via-edge-token-normalization-43cl) (2 months ago)
-- [Code Review Is Where the Value Is Now](https://dev.to/mberwanger/the-next-frontier-isnt-writing-code-its-reviewing-it-2d1k) (2 months ago)
+- [Code Review Is Where the Value Is Now](https://dev.to/mberwanger/the-next-frontier-isnt-writing-code-its-reviewing-it-2d1k) (3 months ago)
 
 #### 👷 Check out what I'm currently working on
 
@@ -38,7 +38,7 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. (3 months ago)
 - [coleam00/habit-tracker](https://github.com/coleam00/habit-tracker) - Habit Tracker for the AI Coding Workshop (4 months ago)
-- [francknouama/go-starter](https://github.com/francknouama/go-starter) - Stop fighting boilerplate. Generate complete, production-ready Go projects that compile immediately and follow best practices. (4 months ago)
+- [francknouama/go-starter](https://github.com/francknouama/go-starter) - Stop fighting boilerplate. Generate complete, production-ready Go projects that compile immediately and follow best practices. (5 months ago)
 - [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) - The Complete Claude Code CLI Guide - Live &amp; Auto-Updated Every 2 Days (6 months ago)
 - [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) - Master Claude Code Hooks (6 months ago)
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI (6 months ago)
