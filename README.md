@@ -24,7 +24,7 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 
 - [admiral-io/admiral-helm](https://github.com/admiral-io/admiral-helm) - Official helm charts for Admiral (3 weeks ago)
 - [admiral-io/.github](https://github.com/admiral-io/.github) - Organization-wide GitHub Community Files (4 weeks ago)
-- [admiral-io/admiral-sdk-go](https://github.com/admiral-io/admiral-sdk-go) - Go client library for the Admiral API (4 weeks ago)
+- [admiral-io/admiral-sdk-go](https://github.com/admiral-io/admiral-sdk-go) - Go client library for the Admiral API (1 month ago)
 - [mberwanger/terraform-test](https://github.com/mberwanger/terraform-test) (1 month ago)
 - [admiral-io/terraform-provider-admiral](https://github.com/admiral-io/terraform-provider-admiral) - Terraform provider for Admiral (1 month ago)
 
