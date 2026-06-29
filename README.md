@@ -22,7 +22,7 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 
 #### 👷 Check out what I'm currently working on
 
-- [admiral-io/.github](https://github.com/admiral-io/.github) - Organization-wide GitHub Community Files (3 days ago)
+- [admiral-io/.github](https://github.com/admiral-io/.github) - Organization-wide GitHub Community Files (4 days ago)
 - [admiral-io/admiral-helm](https://github.com/admiral-io/admiral-helm) - Official helm charts for Admiral (1 month ago)
 - [admiral-io/admiral-sdk-go](https://github.com/admiral-io/admiral-sdk-go) - Go client library for the Admiral API (1 month ago)
 - [mberwanger/terraform-test](https://github.com/mberwanger/terraform-test) (2 months ago)
@@ -43,9 +43,9 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 - [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) - Master Claude Code Hooks (7 months ago)
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI (7 months ago)
 - [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents (7 months ago)
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your AI trading terminal assistant for US stocks, commodities, forex, and crypto. (7 months ago)
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your AI trading terminal assistant for US stocks, commodities, forex, and crypto. (8 months ago)
 - [andrefigueira/.context](https://github.com/andrefigueira/.context) - A Git-native, AI-optimized documentation system that turns your repo into a living knowledge base.  (8 months ago)
-- [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (8 months ago)
+- [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering (9 months ago)
 
 #### 💬 Feedback
 If you use one of my projects, I'd love to hear from you! Don't be shy and let me know what you liked and what needs being improved. Got an issue? Open a ticket, I don't bite and will try my best to help!
