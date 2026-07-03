@@ -18,11 +18,11 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 #### 📝 Latest Blog Posts
 
 - [Unified Authentication for OAuth2 and API Keys via Edge Token Normalization](https://dev.to/mberwanger/unified-authentication-for-oauth2-and-api-keys-via-edge-token-normalization-43cl) (3 months ago)
-- [Code Review Is Where the Value Is Now](https://dev.to/mberwanger/the-next-frontier-isnt-writing-code-its-reviewing-it-2d1k) (3 months ago)
+- [Code Review Is Where the Value Is Now](https://dev.to/mberwanger/the-next-frontier-isnt-writing-code-its-reviewing-it-2d1k) (4 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [admiral-io/.github](https://github.com/admiral-io/.github) - Organization-wide GitHub Community Files (1 week ago)
+- [admiral-io/.github](https://github.com/admiral-io/.github) - Organization-wide GitHub Community Files (1 day ago)
 - [admiral-io/admiral-helm](https://github.com/admiral-io/admiral-helm) - Official helm charts for Admiral (1 month ago)
 - [admiral-io/admiral-sdk-go](https://github.com/admiral-io/admiral-sdk-go) - Go client library for the Admiral API (1 month ago)
 - [mberwanger/terraform-test](https://github.com/mberwanger/terraform-test) (2 months ago)
@@ -38,7 +38,7 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. (4 months ago)
 - [coleam00/habit-tracker](https://github.com/coleam00/habit-tracker) - Habit Tracker for the AI Coding Workshop (5 months ago)
-- [francknouama/go-starter](https://github.com/francknouama/go-starter) - Stop fighting boilerplate. Generate complete, production-ready Go projects that compile immediately and follow best practices. (5 months ago)
+- [francknouama/go-starter](https://github.com/francknouama/go-starter) - Stop fighting boilerplate. Generate complete, production-ready Go projects that compile immediately and follow best practices. (6 months ago)
 - [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) - The Complete Claude Code CLI Guide - Live &amp; Auto-Updated Every 2 Days (7 months ago)
 - [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) - Master Claude Code Hooks (7 months ago)
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI (7 months ago)
