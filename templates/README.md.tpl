@@ -20,11 +20,6 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### 👷 Check out what I'm currently working on
-{{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
-{{- end}}
-
 #### 🌱 My latest projects
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
