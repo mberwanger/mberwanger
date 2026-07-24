@@ -22,8 +22,8 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 
 #### 🌱 My latest projects
 
+- [mberwanger/quartermaster](https://github.com/mberwanger/quartermaster)
 - [mberwanger/terraform-test](https://github.com/mberwanger/terraform-test)
-- [mberwanger/admiral-protos](https://github.com/mberwanger/admiral-protos) - Monorepo for data (Protocol Buffers) and behavioral (gRPC) contracts between services
 - [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering
 
 #### ⭐ Recent Stars
