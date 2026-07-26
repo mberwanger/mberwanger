@@ -22,7 +22,9 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 
 #### 🌱 My latest projects
 
-- [mberwanger/quartermaster](https://github.com/mberwanger/quartermaster)
+- [mberwanger/homebrew-tap](https://github.com/mberwanger/homebrew-tap) - Homebrew formulae for @mberwanger&#39;s tools.
+- [mberwanger/quartermaster-knowledge](https://github.com/mberwanger/quartermaster-knowledge) - A worked example of a Quartermaster knowledge store.
+- [mberwanger/quartermaster](https://github.com/mberwanger/quartermaster) - Quartermaster keeps the knowledge your coding agents read in sync across every repository.
 - [mberwanger/terraform-test](https://github.com/mberwanger/terraform-test)
 - [mberwanger/dockerfiles](https://github.com/mberwanger/dockerfiles) - Build and publish custom Docker images at scale using Go templates, automatic dependency detection, and GitHub Actions workflows with intelligent build ordering
 
