@@ -17,7 +17,7 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 
 #### 📝 Latest Blog Posts
 
-- [Unified Authentication for OAuth2 and API Keys via Edge Token Normalization](https://dev.to/mberwanger/unified-authentication-for-oauth2-and-api-keys-via-edge-token-normalization-43cl) (4 months ago)
+- [Unified Authentication for OAuth2 and API Keys via Edge Token Normalization](https://dev.to/mberwanger/unified-authentication-for-oauth2-and-api-keys-via-edge-token-normalization-43cl) (5 months ago)
 - [Code Review Is Where the Value Is Now](https://dev.to/mberwanger/the-next-frontier-isnt-writing-code-its-reviewing-it-2d1k) (5 months ago)
 
 #### 🌱 My latest projects
