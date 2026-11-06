@@ -35,7 +35,7 @@ I'm Martin. I build the infrastructure layer that lets product teams move fast w
 - [francknouama/go-starter](https://github.com/francknouama/go-starter) - Stop fighting boilerplate. Generate complete, production-ready Go projects that compile immediately and follow best practices. (10 months ago)
 - [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) - The Complete Claude Code CLI Guide - Live &amp; Auto-Updated Every 2 Days (1 year ago)
 - [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) - Master Claude Code Hooks (1 year ago)
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi (1 year ago)
+- [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals. (1 year ago)
 - [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents (1 year ago)
 - [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your AI trading terminal assistant for US stocks, commodities, forex, and crypto. (1 year ago)
 - [andrefigueira/.context](https://github.com/andrefigueira/.context) - A Git-native, AI-optimized documentation system that turns your repo into a living knowledge base.  (1 year ago)
